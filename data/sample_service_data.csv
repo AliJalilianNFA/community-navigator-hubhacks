@@ -1,0 +1,1201 @@
+Date,Area,Category,Service,Requests,Served,Unserved,WaitTimeMinutes,Satisfaction,CostType
+2026-01-01,Halifax,Employment,Career Support,72,63,9,12.8,4.1,Free
+2026-01-01,Bedford,Food,Weekly Pantry Support,58,50,8,14.5,4.1,Free
+2026-01-01,Halifax,Education,School Information,46,40,6,15.6,4.0,Free
+2026-01-02,Dartmouth,Transportation,Public Transit Support,81,63,18,15.1,3.6,Low-cost
+2026-01-02,Sackville,Food,Community Food Pickup,35,29,6,13.6,3.9,Free
+2026-01-02,Sackville,Housing,Housing Navigation,45,35,10,20.1,3.7,Free
+2026-01-02,Halifax,Health,Health Navigation,67,62,5,14.6,4.0,Free
+2026-01-02,Dartmouth,Education,School Information,58,56,2,12.8,4.2,Free
+2026-01-02,Halifax,Employment,Career Support,64,56,8,14.4,3.9,Free
+2026-01-02,Bedford,Transportation,Community Ride Program,67,42,25,27.1,3.1,Low-cost
+2026-01-03,Halifax,Housing,Emergency Housing Support,89,63,26,21.9,3.4,Free
+2026-01-03,Sackville,Transportation,Public Transit Support,73,64,9,11.8,4.2,Low-cost
+2026-01-03,Dartmouth,Food,Weekly Pantry Support,62,53,9,19.4,4.1,Free
+2026-01-05,Halifax,Employment,Career Support,74,64,10,16.6,4.0,Free
+2026-01-05,Sackville,Transportation,Community Ride Program,47,41,6,14.2,4.0,Low-cost
+2026-01-05,Halifax,Education,School Information,44,38,6,14.1,4.0,Free
+2026-01-06,Bedford,Health,Health Navigation,56,50,6,17.4,4.0,Free
+2026-01-06,Sackville,Housing,Housing Navigation,60,46,14,18.4,3.5,Free
+2026-01-06,Sackville,Health,Community Health Support,55,47,8,18.6,4.0,Free
+2026-01-07,Sackville,Transportation,Public Transit Support,62,51,11,13.1,4.0,Low-cost
+2026-01-07,Sackville,Education,Learning Support,36,33,3,9.3,4.4,Free
+2026-01-08,Bedford,Education,Learning Support,53,50,3,11.8,4.1,Free
+2026-01-08,Sackville,Transportation,Community Ride Program,66,54,12,18.4,3.6,Low-cost
+2026-01-08,Dartmouth,Transportation,Community Ride Program,67,53,14,17.4,3.8,Low-cost
+2026-01-09,Dartmouth,Housing,Emergency Housing Support,72,61,11,18.1,4.0,Free
+2026-01-09,Dartmouth,Health,Community Health Support,66,61,5,11.9,4.4,Free
+2026-01-09,Bedford,Transportation,Community Ride Program,74,51,23,26.7,3.3,Low-cost
+2026-01-09,Dartmouth,Employment,Skills Training,42,34,8,19.9,3.5,Free
+2026-01-09,Halifax,Education,Learning Support,46,40,6,15.6,4.0,Free
+2026-01-10,Dartmouth,Transportation,Community Ride Program,61,50,11,17.6,3.6,Low-cost
+2026-01-10,Dartmouth,Health,Community Health Support,56,51,5,15.4,4.3,Free
+2026-01-11,Halifax,Education,School Information,41,36,5,14.0,3.9,Free
+2026-01-11,Halifax,Education,Learning Support,41,39,2,9.7,4.3,Free
+2026-01-11,Sackville,Employment,Skills Training,50,39,11,16.5,3.7,Free
+2026-01-11,Halifax,Housing,Housing Navigation,82,53,29,24.7,3.0,Free
+2026-01-11,Dartmouth,Employment,Career Support,60,51,9,12.8,4.2,Free
+2026-01-12,Sackville,Education,Learning Support,36,34,2,13.5,4.3,Free
+2026-01-12,Halifax,Employment,Career Support,62,56,6,13.2,4.2,Free
+2026-01-13,Sackville,Education,Learning Support,33,31,2,10.5,4.2,Free
+2026-01-14,Bedford,Employment,Skills Training,47,40,7,14.7,3.9,Free
+2026-01-14,Bedford,Health,Health Navigation,73,65,8,15.6,4.0,Free
+2026-01-14,Bedford,Food,Community Food Pickup,66,59,7,17.0,4.0,Free
+2026-01-14,Halifax,Housing,Emergency Housing Support,91,62,29,21.8,3.3,Free
+2026-01-14,Sackville,Food,Community Food Pickup,42,36,6,18.6,4.0,Free
+2026-01-15,Halifax,Food,Community Food Pickup,60,50,10,18.2,3.8,Free
+2026-01-15,Halifax,Health,Community Health Support,60,55,5,11.2,4.2,Free
+2026-01-15,Halifax,Education,School Information,53,50,3,12.3,4.3,Free
+2026-01-15,Dartmouth,Education,Learning Support,54,48,6,14.5,3.9,Free
+2026-01-15,Bedford,Education,Learning Support,34,32,2,10.0,4.3,Free
+2026-01-15,Halifax,Transportation,Community Ride Program,69,60,9,18.1,4.1,Low-cost
+2026-01-15,Dartmouth,Employment,Skills Training,54,45,9,15.6,4.0,Free
+2026-01-16,Halifax,Food,Weekly Pantry Support,63,56,7,14.9,4.0,Free
+2026-01-16,Dartmouth,Food,Community Food Pickup,74,68,6,13.1,4.2,Free
+2026-01-17,Dartmouth,Housing,Housing Navigation,62,47,15,20.4,3.4,Free
+2026-01-17,Halifax,Transportation,Community Ride Program,70,61,9,10.9,4.0,Low-cost
+2026-01-17,Dartmouth,Education,School Information,39,35,4,14.0,3.9,Free
+2026-01-17,Dartmouth,Food,Community Food Pickup,73,62,11,19.4,3.8,Free
+2026-01-17,Halifax,Health,Community Health Support,55,48,7,14.8,3.8,Free
+2026-01-17,Dartmouth,Health,Health Navigation,82,77,5,8.7,4.3,Free
+2026-01-18,Dartmouth,Education,Learning Support,43,37,6,17.5,3.9,Free
+2026-01-19,Bedford,Employment,Skills Training,39,33,6,14.9,3.9,Free
+2026-01-19,Sackville,Food,Weekly Pantry Support,49,42,7,16.9,3.8,Free
+2026-01-19,Sackville,Employment,Skills Training,44,36,8,19.7,3.7,Free
+2026-01-19,Sackville,Employment,Skills Training,32,25,7,21.7,3.5,Free
+2026-01-19,Halifax,Education,School Information,63,58,5,9.8,4.1,Free
+2026-01-19,Sackville,Education,Learning Support,38,35,3,13.3,4.2,Free
+2026-01-20,Bedford,Transportation,Community Ride Program,65,43,22,26.4,3.2,Low-cost
+2026-01-20,Sackville,Housing,Emergency Housing Support,41,31,10,23.3,3.4,Free
+2026-01-20,Sackville,Health,Community Health Support,42,37,5,15.3,4.1,Free
+2026-01-20,Halifax,Housing,Housing Navigation,70,47,23,20.6,3.5,Free
+2026-01-21,Halifax,Education,Learning Support,44,40,4,11.6,4.2,Free
+2026-01-21,Sackville,Employment,Career Support,50,40,10,18.8,3.5,Free
+2026-01-22,Bedford,Employment,Skills Training,52,46,6,16.0,4.0,Free
+2026-01-22,Dartmouth,Transportation,Community Ride Program,74,61,13,13.5,3.8,Low-cost
+2026-01-22,Sackville,Food,Weekly Pantry Support,54,46,8,16.3,3.9,Free
+2026-01-22,Bedford,Housing,Emergency Housing Support,75,56,19,16.8,3.7,Free
+2026-01-22,Sackville,Health,Health Navigation,59,52,7,12.9,4.2,Free
+2026-01-23,Bedford,Education,School Information,39,34,5,13.2,4.2,Free
+2026-01-23,Bedford,Health,Health Navigation,48,43,5,15.4,4.2,Free
+2026-01-23,Bedford,Education,Learning Support,42,39,3,10.1,4.3,Free
+2026-01-23,Halifax,Employment,Skills Training,64,58,6,11.2,4.0,Free
+2026-01-23,Bedford,Employment,Skills Training,56,50,6,14.3,4.2,Free
+2026-01-24,Bedford,Health,Community Health Support,49,44,5,10.2,4.0,Free
+2026-01-24,Dartmouth,Housing,Housing Navigation,64,50,14,20.7,3.7,Free
+2026-01-24,Bedford,Housing,Housing Navigation,56,45,11,20.6,3.5,Free
+2026-01-24,Halifax,Housing,Emergency Housing Support,95,64,31,25.9,3.3,Free
+2026-01-24,Halifax,Food,Weekly Pantry Support,52,47,5,15.3,3.9,Free
+2026-01-24,Dartmouth,Education,School Information,59,54,5,15.4,4.2,Free
+2026-01-25,Halifax,Education,School Information,50,47,3,15.5,4.4,Free
+2026-01-25,Sackville,Education,Learning Support,34,31,3,16.5,4.1,Free
+2026-01-25,Bedford,Food,Weekly Pantry Support,49,43,6,16.9,4.0,Free
+2026-01-26,Bedford,Education,School Information,51,45,6,11.3,4.1,Free
+2026-01-26,Dartmouth,Food,Community Food Pickup,48,45,3,9.1,4.2,Free
+2026-01-26,Sackville,Health,Health Navigation,54,49,5,9.3,4.1,Free
+2026-01-27,Dartmouth,Employment,Career Support,58,48,10,16.3,3.9,Free
+2026-01-27,Halifax,Food,Community Food Pickup,62,53,9,17.1,3.8,Free
+2026-01-27,Halifax,Health,Health Navigation,63,58,5,13.4,4.3,Free
+2026-01-27,Halifax,Health,Health Navigation,65,57,8,17.8,4.2,Free
+2026-01-27,Dartmouth,Housing,Emergency Housing Support,76,59,17,21.7,3.6,Free
+2026-01-28,Halifax,Transportation,Community Ride Program,66,54,12,18.8,3.9,Low-cost
+2026-01-28,Bedford,Health,Community Health Support,50,43,7,12.8,4.0,Free
+2026-01-28,Dartmouth,Transportation,Community Ride Program,57,48,9,19.9,3.7,Low-cost
+2026-01-28,Sackville,Health,Community Health Support,60,52,8,18.4,3.9,Free
+2026-01-28,Halifax,Education,Learning Support,64,58,6,9.3,4.2,Free
+2026-01-29,Sackville,Housing,Housing Navigation,46,38,8,14.1,3.8,Free
+2026-01-29,Sackville,Employment,Skills Training,42,33,9,17.6,3.6,Free
+2026-01-29,Sackville,Transportation,Public Transit Support,61,49,12,16.9,3.6,Low-cost
+2026-01-29,Sackville,Transportation,Community Ride Program,58,48,10,16.4,3.7,Low-cost
+2026-01-30,Sackville,Health,Community Health Support,62,58,4,13.0,4.2,Free
+2026-01-31,Bedford,Employment,Skills Training,61,50,11,15.4,3.7,Free
+2026-01-31,Sackville,Education,School Information,40,36,4,9.7,4.0,Free
+2026-01-31,Sackville,Housing,Housing Navigation,66,52,14,21.3,3.7,Free
+2026-02-01,Sackville,Health,Community Health Support,56,51,5,13.5,4.4,Free
+2026-02-01,Dartmouth,Education,Learning Support,52,48,4,13.0,4.3,Free
+2026-02-01,Sackville,Transportation,Community Ride Program,54,45,9,13.0,3.8,Low-cost
+2026-02-01,Sackville,Health,Health Navigation,59,55,4,11.4,4.3,Free
+2026-02-01,Halifax,Education,School Information,51,46,5,16.3,4.0,Free
+2026-02-02,Halifax,Employment,Skills Training,61,50,11,20.3,3.9,Free
+2026-02-02,Sackville,Health,Health Navigation,50,46,4,12.7,4.0,Free
+2026-02-02,Dartmouth,Health,Health Navigation,70,63,7,15.1,4.2,Free
+2026-02-02,Bedford,Education,School Information,43,38,5,14.0,3.9,Free
+2026-02-03,Dartmouth,Employment,Skills Training,46,41,5,10.6,4.1,Free
+2026-02-03,Halifax,Employment,Skills Training,68,56,12,19.4,3.6,Free
+2026-02-03,Bedford,Employment,Skills Training,45,41,4,12.9,4.3,Free
+2026-02-03,Dartmouth,Employment,Skills Training,47,43,4,15.8,4.1,Free
+2026-02-03,Bedford,Employment,Skills Training,46,41,5,14.6,4.2,Free
+2026-02-03,Dartmouth,Transportation,Public Transit Support,69,57,12,13.9,4.0,Low-cost
+2026-02-03,Bedford,Health,Community Health Support,48,45,3,8.9,4.2,Free
+2026-02-03,Bedford,Transportation,Public Transit Support,56,39,17,25.5,3.4,Low-cost
+2026-02-03,Sackville,Health,Community Health Support,62,56,6,12.4,4.0,Free
+2026-02-04,Sackville,Employment,Skills Training,33,26,7,20.3,3.6,Free
+2026-02-04,Halifax,Housing,Housing Navigation,84,54,30,22.0,3.3,Free
+2026-02-04,Sackville,Transportation,Public Transit Support,45,36,9,21.4,3.9,Low-cost
+2026-02-04,Halifax,Health,Community Health Support,88,80,8,15.4,4.1,Free
+2026-02-04,Sackville,Transportation,Public Transit Support,51,43,8,15.0,4.1,Low-cost
+2026-02-04,Halifax,Employment,Career Support,56,47,9,19.0,3.9,Free
+2026-02-04,Halifax,Education,School Information,40,35,5,11.5,4.1,Free
+2026-02-05,Halifax,Transportation,Community Ride Program,103,81,22,22.5,3.8,Low-cost
+2026-02-05,Sackville,Education,School Information,31,28,3,13.0,4.2,Free
+2026-02-05,Sackville,Transportation,Public Transit Support,67,55,12,16.4,3.8,Low-cost
+2026-02-05,Bedford,Food,Weekly Pantry Support,67,62,5,13.3,4.3,Free
+2026-02-05,Bedford,Education,School Information,41,38,3,13.9,4.4,Free
+2026-02-06,Dartmouth,Housing,Emergency Housing Support,75,58,17,21.0,3.5,Free
+2026-02-06,Dartmouth,Employment,Skills Training,43,36,7,14.8,4.0,Free
+2026-02-06,Bedford,Health,Health Navigation,63,55,8,15.8,4.1,Free
+2026-02-07,Halifax,Employment,Career Support,64,56,8,14.3,4.0,Free
+2026-02-07,Bedford,Housing,Emergency Housing Support,74,56,18,16.1,3.6,Free
+2026-02-07,Sackville,Food,Community Food Pickup,45,39,6,15.7,4.0,Free
+2026-02-08,Sackville,Housing,Housing Navigation,67,54,13,21.7,3.5,Free
+2026-02-09,Sackville,Employment,Career Support,43,35,8,19.9,3.7,Free
+2026-02-09,Halifax,Employment,Skills Training,48,40,8,12.6,3.9,Free
+2026-02-09,Bedford,Education,Learning Support,40,37,3,12.9,4.4,Free
+2026-02-09,Sackville,Education,School Information,29,26,3,13.1,4.0,Free
+2026-02-10,Dartmouth,Employment,Career Support,55,50,5,9.5,4.2,Free
+2026-02-10,Bedford,Food,Weekly Pantry Support,67,58,9,14.1,4.0,Free
+2026-02-10,Sackville,Employment,Career Support,32,24,8,17.4,3.8,Free
+2026-02-10,Dartmouth,Transportation,Community Ride Program,87,76,11,13.4,4.2,Low-cost
+2026-02-10,Halifax,Education,Learning Support,52,50,2,8.2,4.3,Free
+2026-02-11,Dartmouth,Education,School Information,52,46,6,17.7,4.0,Free
+2026-02-11,Dartmouth,Education,School Information,49,45,4,10.1,4.3,Free
+2026-02-11,Bedford,Health,Health Navigation,57,52,5,13.1,4.3,Free
+2026-02-11,Dartmouth,Food,Weekly Pantry Support,68,57,11,18.2,3.8,Free
+2026-02-12,Halifax,Housing,Housing Navigation,68,49,19,22.4,3.5,Free
+2026-02-12,Halifax,Education,School Information,53,48,5,15.5,4.1,Free
+2026-02-12,Dartmouth,Housing,Housing Navigation,63,50,13,20.6,3.5,Free
+2026-02-12,Dartmouth,Housing,Housing Navigation,72,57,15,19.7,3.5,Free
+2026-02-12,Bedford,Employment,Career Support,47,41,6,13.3,4.1,Free
+2026-02-12,Dartmouth,Health,Health Navigation,60,52,8,13.3,4.1,Free
+2026-02-13,Halifax,Education,Learning Support,46,42,4,12.7,4.2,Free
+2026-02-13,Dartmouth,Health,Health Navigation,55,50,5,13.7,4.0,Free
+2026-02-13,Bedford,Housing,Emergency Housing Support,74,60,14,16.7,3.6,Free
+2026-02-13,Bedford,Employment,Skills Training,52,43,9,19.3,3.6,Free
+2026-02-13,Halifax,Housing,Housing Navigation,87,59,28,23.4,3.4,Free
+2026-02-13,Halifax,Transportation,Community Ride Program,71,59,12,17.1,3.8,Low-cost
+2026-02-13,Dartmouth,Food,Community Food Pickup,57,48,9,19.1,4.0,Free
+2026-02-14,Halifax,Housing,Emergency Housing Support,77,51,26,21.6,3.2,Free
+2026-02-14,Dartmouth,Education,School Information,46,41,5,12.5,4.0,Free
+2026-02-14,Halifax,Housing,Emergency Housing Support,70,48,22,23.5,3.4,Free
+2026-02-14,Dartmouth,Housing,Emergency Housing Support,85,65,20,21.5,3.4,Free
+2026-02-15,Sackville,Education,Learning Support,45,42,3,12.6,4.4,Free
+2026-02-15,Bedford,Education,Learning Support,38,34,4,16.7,4.0,Free
+2026-02-15,Dartmouth,Employment,Skills Training,44,37,7,15.1,3.8,Free
+2026-02-15,Sackville,Education,Learning Support,37,32,5,14.6,4.0,Free
+2026-02-15,Halifax,Housing,Emergency Housing Support,86,54,32,24.3,3.3,Free
+2026-02-15,Sackville,Education,Learning Support,39,36,3,12.5,4.4,Free
+2026-02-16,Dartmouth,Employment,Career Support,67,58,9,18.8,3.8,Free
+2026-02-16,Halifax,Employment,Skills Training,56,50,6,16.6,3.9,Free
+2026-02-16,Bedford,Employment,Skills Training,55,45,10,19.4,3.9,Free
+2026-02-17,Sackville,Education,Learning Support,31,29,2,9.3,4.5,Free
+2026-02-17,Bedford,Employment,Skills Training,45,39,6,12.6,4.1,Free
+2026-02-17,Sackville,Food,Community Food Pickup,52,46,6,15.5,4.0,Free
+2026-02-17,Bedford,Employment,Skills Training,38,32,6,15.8,3.8,Free
+2026-02-17,Dartmouth,Housing,Emergency Housing Support,67,55,12,15.8,3.9,Free
+2026-02-17,Sackville,Food,Community Food Pickup,49,45,4,9.0,4.2,Free
+2026-02-17,Halifax,Food,Weekly Pantry Support,76,69,7,14.5,4.0,Free
+2026-02-17,Halifax,Employment,Career Support,69,62,7,13.3,4.1,Free
+2026-02-17,Bedford,Transportation,Public Transit Support,75,52,23,22.0,3.4,Low-cost
+2026-02-18,Dartmouth,Transportation,Community Ride Program,64,51,13,16.7,3.7,Low-cost
+2026-02-18,Bedford,Transportation,Community Ride Program,74,49,25,20.9,3.1,Low-cost
+2026-02-18,Dartmouth,Transportation,Community Ride Program,79,65,14,15.0,4.0,Low-cost
+2026-02-18,Dartmouth,Health,Health Navigation,50,44,6,11.5,4.1,Free
+2026-02-19,Halifax,Education,School Information,46,43,3,10.9,4.3,Free
+2026-02-19,Bedford,Food,Community Food Pickup,45,42,3,12.3,4.1,Free
+2026-02-19,Halifax,Transportation,Community Ride Program,94,77,17,14.2,3.7,Low-cost
+2026-02-19,Sackville,Housing,Housing Navigation,42,35,7,19.4,3.8,Free
+2026-02-20,Dartmouth,Employment,Skills Training,63,52,11,18.1,4.0,Free
+2026-02-20,Sackville,Employment,Skills Training,40,30,10,22.4,3.7,Free
+2026-02-20,Dartmouth,Food,Community Food Pickup,70,65,5,13.6,4.1,Free
+2026-02-20,Bedford,Housing,Emergency Housing Support,51,41,10,16.6,3.9,Free
+2026-02-21,Sackville,Food,Weekly Pantry Support,54,49,5,13.2,4.1,Free
+2026-02-21,Bedford,Housing,Emergency Housing Support,74,62,12,16.2,3.8,Free
+2026-02-21,Bedford,Transportation,Community Ride Program,61,40,21,26.8,3.1,Low-cost
+2026-02-21,Halifax,Transportation,Community Ride Program,66,53,13,16.0,4.0,Low-cost
+2026-02-21,Dartmouth,Transportation,Public Transit Support,72,59,13,19.8,3.6,Low-cost
+2026-02-22,Dartmouth,Education,School Information,56,51,5,11.9,4.1,Free
+2026-02-22,Sackville,Education,Learning Support,29,25,4,17.0,4.1,Free
+2026-02-22,Halifax,Transportation,Community Ride Program,92,77,15,19.0,4.0,Low-cost
+2026-02-22,Dartmouth,Education,Learning Support,37,36,1,13.9,4.5,Free
+2026-02-22,Halifax,Transportation,Public Transit Support,85,67,18,21.6,3.6,Low-cost
+2026-02-22,Bedford,Transportation,Public Transit Support,76,48,28,27.1,3.2,Low-cost
+2026-02-23,Halifax,Employment,Career Support,52,43,9,18.0,4.0,Free
+2026-02-23,Halifax,Education,Learning Support,65,57,8,11.5,3.9,Free
+2026-02-23,Halifax,Food,Community Food Pickup,74,67,7,11.9,4.0,Free
+2026-02-23,Sackville,Health,Health Navigation,46,42,4,15.5,4.1,Free
+2026-02-24,Sackville,Food,Weekly Pantry Support,35,30,5,15.5,4.0,Free
+2026-02-24,Bedford,Food,Weekly Pantry Support,58,50,8,11.9,4.1,Free
+2026-02-24,Bedford,Health,Health Navigation,56,51,5,12.7,4.0,Free
+2026-02-24,Sackville,Food,Weekly Pantry Support,37,34,3,12.2,4.3,Free
+2026-02-24,Dartmouth,Housing,Housing Navigation,58,44,14,23.7,3.5,Free
+2026-02-24,Sackville,Food,Community Food Pickup,50,42,8,18.9,4.0,Free
+2026-02-25,Bedford,Food,Community Food Pickup,45,38,7,13.2,3.8,Free
+2026-02-25,Sackville,Housing,Emergency Housing Support,45,37,8,14.7,3.9,Free
+2026-02-25,Bedford,Education,Learning Support,50,43,7,16.4,4.0,Free
+2026-02-25,Bedford,Health,Community Health Support,74,68,6,12.2,4.1,Free
+2026-02-25,Sackville,Housing,Housing Navigation,63,48,15,18.5,3.4,Free
+2026-02-25,Dartmouth,Food,Community Food Pickup,59,55,4,14.7,4.3,Free
+2026-02-26,Halifax,Health,Community Health Support,58,53,5,9.2,4.1,Free
+2026-02-27,Sackville,Transportation,Community Ride Program,56,45,11,18.5,3.8,Low-cost
+2026-02-27,Sackville,Employment,Skills Training,49,40,9,14.3,3.7,Free
+2026-02-27,Sackville,Employment,Career Support,34,27,7,22.1,3.8,Free
+2026-02-27,Bedford,Employment,Skills Training,59,50,9,12.4,4.1,Free
+2026-02-27,Sackville,Housing,Emergency Housing Support,50,41,9,19.8,3.9,Free
+2026-02-27,Halifax,Education,School Information,46,42,4,9.0,4.4,Free
+2026-02-28,Halifax,Food,Weekly Pantry Support,74,66,8,16.3,4.2,Free
+2026-02-28,Halifax,Food,Community Food Pickup,54,47,7,15.9,4.2,Free
+2026-02-28,Sackville,Health,Health Navigation,45,41,4,16.9,4.1,Free
+2026-03-01,Halifax,Education,Learning Support,41,37,4,13.2,4.1,Free
+2026-03-01,Halifax,Food,Community Food Pickup,68,57,11,14.8,3.9,Free
+2026-03-02,Dartmouth,Transportation,Community Ride Program,78,66,12,16.9,4.0,Low-cost
+2026-03-02,Bedford,Housing,Emergency Housing Support,70,55,15,17.3,3.6,Free
+2026-03-02,Sackville,Food,Community Food Pickup,56,52,4,8.2,4.4,Free
+2026-03-02,Bedford,Education,Learning Support,37,34,3,12.9,4.3,Free
+2026-03-02,Dartmouth,Food,Weekly Pantry Support,72,60,12,15.9,4.1,Free
+2026-03-02,Dartmouth,Transportation,Community Ride Program,71,62,9,11.4,3.9,Low-cost
+2026-03-02,Dartmouth,Transportation,Public Transit Support,79,65,14,17.7,3.9,Low-cost
+2026-03-03,Bedford,Employment,Career Support,53,46,7,18.6,3.8,Free
+2026-03-03,Bedford,Health,Health Navigation,47,43,4,11.8,4.3,Free
+2026-03-04,Dartmouth,Food,Community Food Pickup,71,62,9,14.0,4.1,Free
+2026-03-04,Dartmouth,Transportation,Community Ride Program,72,60,12,20.1,3.9,Low-cost
+2026-03-05,Sackville,Transportation,Community Ride Program,58,48,10,16.7,3.8,Low-cost
+2026-03-05,Dartmouth,Transportation,Public Transit Support,59,49,10,15.8,3.9,Low-cost
+2026-03-05,Halifax,Employment,Career Support,56,49,7,12.2,4.1,Free
+2026-03-05,Dartmouth,Transportation,Public Transit Support,77,63,14,17.5,3.8,Low-cost
+2026-03-05,Bedford,Transportation,Community Ride Program,71,47,24,23.5,3.1,Low-cost
+2026-03-05,Bedford,Employment,Career Support,41,36,5,12.9,4.2,Free
+2026-03-06,Sackville,Transportation,Community Ride Program,65,52,13,15.2,3.7,Low-cost
+2026-03-06,Dartmouth,Transportation,Public Transit Support,63,53,10,14.3,4.1,Low-cost
+2026-03-06,Dartmouth,Employment,Skills Training,46,40,6,15.1,4.0,Free
+2026-03-06,Sackville,Housing,Emergency Housing Support,45,34,11,16.1,3.7,Free
+2026-03-06,Halifax,Health,Health Navigation,76,67,9,13.7,4.2,Free
+2026-03-06,Halifax,Transportation,Community Ride Program,89,76,13,12.4,3.8,Low-cost
+2026-03-06,Dartmouth,Housing,Emergency Housing Support,75,61,14,14.1,3.9,Free
+2026-03-06,Bedford,Employment,Career Support,50,43,7,18.3,4.1,Free
+2026-03-06,Sackville,Food,Community Food Pickup,38,32,6,18.6,3.9,Free
+2026-03-06,Dartmouth,Housing,Emergency Housing Support,80,67,13,18.2,3.7,Free
+2026-03-07,Sackville,Health,Community Health Support,46,43,3,15.0,4.2,Free
+2026-03-07,Halifax,Health,Health Navigation,77,73,4,8.7,4.4,Free
+2026-03-07,Bedford,Transportation,Community Ride Program,58,37,21,23.8,3.1,Low-cost
+2026-03-07,Dartmouth,Health,Health Navigation,81,72,9,16.4,4.0,Free
+2026-03-07,Halifax,Housing,Emergency Housing Support,62,44,18,24.5,3.2,Free
+2026-03-08,Halifax,Transportation,Community Ride Program,100,83,17,12.7,4.1,Low-cost
+2026-03-08,Halifax,Food,Community Food Pickup,67,61,6,9.9,4.4,Free
+2026-03-08,Halifax,Housing,Emergency Housing Support,69,49,20,18.5,3.6,Free
+2026-03-08,Dartmouth,Employment,Skills Training,53,46,7,15.9,3.9,Free
+2026-03-09,Sackville,Employment,Skills Training,39,29,10,19.5,3.4,Free
+2026-03-09,Dartmouth,Health,Community Health Support,78,72,6,11.6,4.2,Free
+2026-03-09,Dartmouth,Employment,Career Support,68,60,8,16.8,4.1,Free
+2026-03-09,Halifax,Education,Learning Support,56,49,7,12.1,4.2,Free
+2026-03-10,Bedford,Employment,Skills Training,45,38,7,18.1,3.9,Free
+2026-03-10,Dartmouth,Food,Community Food Pickup,68,58,10,15.8,3.8,Free
+2026-03-10,Halifax,Transportation,Community Ride Program,100,85,15,17.9,3.8,Low-cost
+2026-03-10,Sackville,Education,Learning Support,34,31,3,15.1,4.1,Free
+2026-03-11,Sackville,Housing,Housing Navigation,64,51,13,21.3,3.6,Free
+2026-03-11,Dartmouth,Transportation,Community Ride Program,65,53,12,17.8,3.9,Low-cost
+2026-03-11,Sackville,Transportation,Community Ride Program,65,52,13,21.3,3.5,Low-cost
+2026-03-11,Sackville,Education,Learning Support,30,28,2,11.3,4.3,Free
+2026-03-11,Bedford,Housing,Emergency Housing Support,49,41,8,14.6,3.9,Free
+2026-03-11,Halifax,Transportation,Community Ride Program,99,79,20,16.2,3.7,Low-cost
+2026-03-12,Sackville,Housing,Housing Navigation,45,35,10,21.3,3.6,Free
+2026-03-12,Dartmouth,Education,Learning Support,58,54,4,14.1,4.2,Free
+2026-03-12,Sackville,Employment,Career Support,42,33,9,18.2,3.7,Free
+2026-03-12,Sackville,Housing,Housing Navigation,63,48,15,18.2,3.6,Free
+2026-03-12,Bedford,Housing,Housing Navigation,52,43,9,13.9,4.0,Free
+2026-03-12,Bedford,Transportation,Public Transit Support,77,47,30,30.2,2.9,Low-cost
+2026-03-12,Halifax,Health,Health Navigation,89,78,11,11.5,4.1,Free
+2026-03-12,Sackville,Health,Community Health Support,58,53,5,10.8,4.2,Free
+2026-03-13,Bedford,Housing,Emergency Housing Support,73,60,13,15.4,3.8,Free
+2026-03-13,Sackville,Food,Weekly Pantry Support,57,53,4,12.1,4.2,Free
+2026-03-13,Bedford,Health,Community Health Support,57,50,7,12.5,4.3,Free
+2026-03-13,Halifax,Employment,Career Support,48,39,9,19.7,3.6,Free
+2026-03-13,Sackville,Education,Learning Support,42,39,3,16.2,4.1,Free
+2026-03-14,Halifax,Housing,Housing Navigation,85,55,30,22.6,3.4,Free
+2026-03-14,Bedford,Food,Community Food Pickup,66,57,9,16.4,4.0,Free
+2026-03-14,Sackville,Transportation,Community Ride Program,56,45,11,16.8,3.9,Low-cost
+2026-03-14,Halifax,Food,Weekly Pantry Support,58,50,8,19.0,3.9,Free
+2026-03-14,Halifax,Housing,Emergency Housing Support,61,38,23,26.5,3.2,Free
+2026-03-15,Bedford,Employment,Career Support,39,34,5,15.7,3.9,Free
+2026-03-15,Dartmouth,Transportation,Community Ride Program,58,48,10,15.7,3.9,Low-cost
+2026-03-15,Sackville,Employment,Skills Training,37,28,9,20.4,3.5,Free
+2026-03-15,Bedford,Food,Weekly Pantry Support,64,57,7,17.4,4.0,Free
+2026-03-15,Dartmouth,Housing,Emergency Housing Support,88,71,17,17.0,3.7,Free
+2026-03-16,Halifax,Food,Community Food Pickup,69,63,6,15.6,4.2,Free
+2026-03-16,Halifax,Health,Health Navigation,54,49,5,13.8,4.2,Free
+2026-03-17,Bedford,Food,Weekly Pantry Support,47,40,7,13.3,4.0,Free
+2026-03-17,Dartmouth,Transportation,Public Transit Support,80,70,10,16.8,4.1,Low-cost
+2026-03-17,Dartmouth,Food,Community Food Pickup,59,53,6,11.9,4.3,Free
+2026-03-17,Bedford,Health,Health Navigation,64,57,7,12.3,4.2,Free
+2026-03-17,Halifax,Housing,Emergency Housing Support,62,40,22,23.8,3.2,Free
+2026-03-17,Bedford,Housing,Housing Navigation,50,39,11,16.3,3.9,Free
+2026-03-17,Sackville,Food,Weekly Pantry Support,38,32,6,16.7,3.7,Free
+2026-03-17,Bedford,Transportation,Public Transit Support,54,34,20,22.8,2.9,Low-cost
+2026-03-17,Dartmouth,Employment,Skills Training,63,56,7,17.4,4.0,Free
+2026-03-18,Halifax,Health,Health Navigation,59,55,4,11.6,4.3,Free
+2026-03-18,Sackville,Health,Community Health Support,53,48,5,11.9,4.2,Free
+2026-03-18,Bedford,Health,Community Health Support,54,46,8,18.0,4.0,Free
+2026-03-18,Halifax,Housing,Emergency Housing Support,87,56,31,21.6,3.3,Free
+2026-03-18,Sackville,Transportation,Public Transit Support,71,61,10,11.9,3.9,Low-cost
+2026-03-18,Dartmouth,Health,Community Health Support,64,57,7,12.6,4.2,Free
+2026-03-19,Dartmouth,Education,School Information,55,50,5,15.4,4.0,Free
+2026-03-19,Dartmouth,Health,Health Navigation,74,68,6,9.3,4.2,Free
+2026-03-19,Dartmouth,Education,Learning Support,48,44,4,13.8,4.3,Free
+2026-03-19,Dartmouth,Education,School Information,59,54,5,12.4,4.1,Free
+2026-03-20,Halifax,Employment,Career Support,59,52,7,14.4,4.0,Free
+2026-03-20,Sackville,Education,School Information,29,27,2,8.4,4.2,Free
+2026-03-20,Sackville,Food,Weekly Pantry Support,48,42,6,13.2,4.0,Free
+2026-03-20,Halifax,Transportation,Community Ride Program,92,79,13,12.4,3.9,Low-cost
+2026-03-20,Dartmouth,Housing,Housing Navigation,59,45,14,23.6,3.5,Free
+2026-03-20,Bedford,Health,Community Health Support,63,56,7,15.1,3.9,Free
+2026-03-21,Bedford,Health,Community Health Support,68,59,9,11.6,4.3,Free
+2026-03-21,Bedford,Employment,Skills Training,37,33,4,17.7,4.0,Free
+2026-03-21,Sackville,Health,Community Health Support,59,55,4,8.2,4.3,Free
+2026-03-22,Halifax,Transportation,Public Transit Support,94,74,20,15.2,3.7,Low-cost
+2026-03-22,Halifax,Food,Community Food Pickup,58,48,10,17.7,3.8,Free
+2026-03-22,Halifax,Health,Health Navigation,82,74,8,10.3,4.4,Free
+2026-03-22,Dartmouth,Housing,Emergency Housing Support,81,66,15,18.2,3.6,Free
+2026-03-22,Sackville,Transportation,Public Transit Support,57,44,13,22.9,3.4,Low-cost
+2026-03-23,Halifax,Transportation,Public Transit Support,96,79,17,13.5,3.9,Low-cost
+2026-03-23,Bedford,Education,Learning Support,53,50,3,8.3,4.3,Free
+2026-03-23,Halifax,Transportation,Public Transit Support,76,59,17,18.3,3.6,Low-cost
+2026-03-24,Bedford,Education,Learning Support,50,46,4,12.0,4.0,Free
+2026-03-24,Halifax,Food,Community Food Pickup,58,53,5,10.1,4.2,Free
+2026-03-24,Sackville,Employment,Career Support,45,35,10,16.9,3.5,Free
+2026-03-24,Bedford,Housing,Housing Navigation,81,65,16,21.8,3.7,Free
+2026-03-24,Dartmouth,Food,Community Food Pickup,55,49,6,12.2,4.3,Free
+2026-03-25,Bedford,Transportation,Community Ride Program,78,52,26,25.7,3.0,Low-cost
+2026-03-25,Bedford,Food,Weekly Pantry Support,55,46,9,12.6,4.1,Free
+2026-03-26,Dartmouth,Education,School Information,60,56,4,12.1,4.3,Free
+2026-03-26,Halifax,Housing,Housing Navigation,76,50,26,21.4,3.2,Free
+2026-03-27,Sackville,Employment,Career Support,33,24,9,18.3,3.3,Free
+2026-03-27,Halifax,Housing,Emergency Housing Support,83,52,31,29.7,3.1,Free
+2026-03-28,Dartmouth,Transportation,Community Ride Program,58,47,11,17.2,3.9,Low-cost
+2026-03-28,Bedford,Employment,Skills Training,60,49,11,21.0,3.6,Free
+2026-03-29,Halifax,Transportation,Community Ride Program,100,80,20,14.6,4.0,Low-cost
+2026-03-29,Dartmouth,Health,Health Navigation,56,51,5,11.4,4.3,Free
+2026-03-29,Sackville,Food,Community Food Pickup,54,48,6,11.4,4.0,Free
+2026-03-29,Dartmouth,Health,Community Health Support,67,61,6,13.6,4.2,Free
+2026-03-29,Halifax,Health,Community Health Support,72,66,6,14.9,4.1,Free
+2026-03-30,Bedford,Transportation,Community Ride Program,85,52,33,24.2,2.9,Low-cost
+2026-03-30,Halifax,Employment,Career Support,63,51,12,15.6,3.9,Free
+2026-03-30,Sackville,Employment,Career Support,41,31,10,19.1,3.8,Free
+2026-03-31,Dartmouth,Food,Weekly Pantry Support,51,46,5,16.4,4.0,Free
+2026-03-31,Bedford,Health,Health Navigation,57,53,4,15.6,4.0,Free
+2026-03-31,Bedford,Employment,Skills Training,49,40,9,15.1,3.7,Free
+2026-03-31,Halifax,Food,Community Food Pickup,57,50,7,14.2,4.0,Free
+2026-03-31,Dartmouth,Food,Community Food Pickup,63,56,7,13.2,4.1,Free
+2026-03-31,Dartmouth,Housing,Emergency Housing Support,57,47,10,19.1,4.0,Free
+2026-03-31,Sackville,Education,Learning Support,31,28,3,11.2,4.2,Free
+2026-04-01,Halifax,Employment,Career Support,69,61,8,13.9,4.1,Free
+2026-04-01,Sackville,Housing,Housing Navigation,54,44,10,13.6,4.0,Free
+2026-04-01,Bedford,Housing,Emergency Housing Support,68,53,15,19.5,3.8,Free
+2026-04-01,Dartmouth,Employment,Skills Training,67,57,10,16.1,3.9,Free
+2026-04-02,Bedford,Housing,Housing Navigation,73,55,18,18.6,3.7,Free
+2026-04-02,Bedford,Housing,Housing Navigation,66,53,13,19.8,3.8,Free
+2026-04-02,Dartmouth,Health,Health Navigation,55,48,7,12.8,3.9,Free
+2026-04-02,Halifax,Employment,Skills Training,45,39,6,16.4,3.9,Free
+2026-04-02,Dartmouth,Transportation,Public Transit Support,66,55,11,12.9,3.9,Low-cost
+2026-04-02,Dartmouth,Employment,Career Support,53,44,9,13.2,4.1,Free
+2026-04-02,Halifax,Transportation,Public Transit Support,99,79,20,18.0,3.6,Low-cost
+2026-04-02,Halifax,Employment,Career Support,56,49,7,11.8,4.1,Free
+2026-04-02,Dartmouth,Employment,Skills Training,50,42,8,17.8,4.0,Free
+2026-04-03,Bedford,Housing,Emergency Housing Support,69,52,17,17.4,3.5,Free
+2026-04-03,Bedford,Housing,Emergency Housing Support,54,41,13,22.8,3.6,Free
+2026-04-03,Sackville,Transportation,Community Ride Program,50,43,7,17.8,4.1,Low-cost
+2026-04-03,Bedford,Employment,Career Support,58,53,5,12.3,4.2,Free
+2026-04-03,Sackville,Food,Weekly Pantry Support,55,49,6,14.0,4.0,Free
+2026-04-03,Halifax,Food,Weekly Pantry Support,63,58,5,11.1,4.1,Free
+2026-04-03,Bedford,Health,Health Navigation,66,60,6,9.8,4.4,Free
+2026-04-03,Sackville,Transportation,Public Transit Support,66,58,8,17.8,4.1,Low-cost
+2026-04-04,Sackville,Health,Health Navigation,53,50,3,15.3,4.1,Free
+2026-04-04,Halifax,Food,Weekly Pantry Support,53,46,7,14.6,4.1,Free
+2026-04-04,Bedford,Employment,Career Support,53,46,7,12.3,4.1,Free
+2026-04-05,Sackville,Food,Weekly Pantry Support,39,35,4,14.9,4.3,Free
+2026-04-05,Halifax,Food,Community Food Pickup,62,56,6,12.5,4.3,Free
+2026-04-05,Sackville,Education,Learning Support,44,40,4,10.2,4.1,Free
+2026-04-05,Sackville,Employment,Career Support,50,37,13,18.6,3.4,Free
+2026-04-06,Bedford,Food,Community Food Pickup,48,42,6,11.8,4.1,Free
+2026-04-06,Dartmouth,Employment,Career Support,46,42,4,13.4,4.3,Free
+2026-04-06,Halifax,Employment,Career Support,51,45,6,16.8,3.9,Free
+2026-04-06,Dartmouth,Food,Weekly Pantry Support,61,52,9,15.4,4.0,Free
+2026-04-06,Dartmouth,Employment,Skills Training,53,44,9,16.4,3.8,Free
+2026-04-06,Halifax,Housing,Housing Navigation,75,51,24,23.5,3.1,Free
+2026-04-06,Bedford,Health,Community Health Support,62,58,4,13.9,4.3,Free
+2026-04-07,Sackville,Employment,Skills Training,52,39,13,19.3,3.7,Free
+2026-04-07,Dartmouth,Education,Learning Support,40,37,3,15.6,4.3,Free
+2026-04-07,Halifax,Health,Community Health Support,68,62,6,12.1,4.1,Free
+2026-04-08,Halifax,Food,Community Food Pickup,77,71,6,11.1,4.2,Free
+2026-04-08,Bedford,Employment,Skills Training,39,34,5,13.6,4.0,Free
+2026-04-08,Bedford,Food,Weekly Pantry Support,62,55,7,14.2,4.1,Free
+2026-04-08,Halifax,Employment,Career Support,72,64,8,15.7,4.1,Free
+2026-04-08,Bedford,Transportation,Public Transit Support,53,33,20,23.2,3.2,Low-cost
+2026-04-09,Bedford,Housing,Housing Navigation,61,47,14,15.9,3.8,Free
+2026-04-09,Bedford,Housing,Housing Navigation,49,42,7,13.3,4.0,Free
+2026-04-09,Halifax,Employment,Skills Training,58,48,10,12.9,3.8,Free
+2026-04-09,Dartmouth,Health,Community Health Support,81,71,10,12.9,4.2,Free
+2026-04-10,Sackville,Education,School Information,38,35,3,16.5,4.1,Free
+2026-04-10,Bedford,Housing,Emergency Housing Support,52,42,10,18.2,3.6,Free
+2026-04-10,Dartmouth,Health,Health Navigation,59,51,8,16.6,3.8,Free
+2026-04-10,Bedford,Education,Learning Support,33,28,5,16.8,3.8,Free
+2026-04-10,Bedford,Education,Learning Support,34,31,3,13.1,4.1,Free
+2026-04-10,Dartmouth,Education,Learning Support,43,37,6,14.2,4.1,Free
+2026-04-11,Sackville,Transportation,Community Ride Program,50,44,6,13.5,4.1,Low-cost
+2026-04-11,Bedford,Employment,Skills Training,51,46,5,13.6,4.0,Free
+2026-04-11,Bedford,Housing,Housing Navigation,72,54,18,22.1,3.5,Free
+2026-04-11,Halifax,Food,Community Food Pickup,58,53,5,9.5,4.1,Free
+2026-04-12,Dartmouth,Transportation,Public Transit Support,65,52,13,21.1,3.8,Low-cost
+2026-04-12,Halifax,Transportation,Community Ride Program,88,75,13,18.3,4.1,Low-cost
+2026-04-12,Bedford,Transportation,Community Ride Program,64,42,22,28.4,2.9,Low-cost
+2026-04-12,Sackville,Transportation,Public Transit Support,46,40,6,13.1,3.9,Low-cost
+2026-04-12,Dartmouth,Transportation,Public Transit Support,94,82,12,18.6,3.8,Low-cost
+2026-04-12,Sackville,Transportation,Community Ride Program,47,38,9,14.7,3.8,Low-cost
+2026-04-12,Sackville,Employment,Career Support,41,32,9,14.9,3.6,Free
+2026-04-13,Halifax,Housing,Housing Navigation,91,59,32,24.5,3.3,Free
+2026-04-13,Bedford,Food,Community Food Pickup,43,38,5,18.1,3.9,Free
+2026-04-13,Bedford,Employment,Career Support,39,32,7,16.3,3.8,Free
+2026-04-13,Halifax,Transportation,Public Transit Support,70,57,13,14.1,4.0,Low-cost
+2026-04-14,Sackville,Transportation,Community Ride Program,68,55,13,15.0,3.9,Low-cost
+2026-04-14,Halifax,Education,Learning Support,57,53,4,15.1,4.3,Free
+2026-04-14,Dartmouth,Food,Weekly Pantry Support,60,55,5,15.0,4.3,Free
+2026-04-14,Sackville,Transportation,Community Ride Program,45,36,9,14.3,4.0,Low-cost
+2026-04-15,Bedford,Transportation,Public Transit Support,60,36,24,28.8,2.8,Low-cost
+2026-04-15,Bedford,Food,Weekly Pantry Support,57,52,5,15.0,4.0,Free
+2026-04-16,Bedford,Housing,Housing Navigation,57,45,12,14.6,3.9,Free
+2026-04-16,Halifax,Transportation,Community Ride Program,103,85,18,17.3,4.0,Low-cost
+2026-04-16,Halifax,Employment,Career Support,55,47,8,17.7,3.8,Free
+2026-04-16,Bedford,Transportation,Public Transit Support,58,36,22,22.7,3.2,Low-cost
+2026-04-16,Dartmouth,Employment,Career Support,60,52,8,13.4,4.1,Free
+2026-04-16,Dartmouth,Employment,Career Support,59,51,8,16.6,3.8,Free
+2026-04-17,Dartmouth,Employment,Career Support,49,43,6,15.8,3.9,Free
+2026-04-17,Sackville,Transportation,Public Transit Support,73,63,10,12.6,4.1,Low-cost
+2026-04-18,Halifax,Food,Weekly Pantry Support,63,56,7,15.2,4.0,Free
+2026-04-18,Dartmouth,Housing,Emergency Housing Support,86,68,18,16.9,3.9,Free
+2026-04-18,Bedford,Food,Weekly Pantry Support,60,51,9,16.8,3.8,Free
+2026-04-18,Halifax,Food,Weekly Pantry Support,49,45,4,13.8,4.0,Free
+2026-04-18,Halifax,Employment,Skills Training,67,55,12,19.2,3.8,Free
+2026-04-18,Sackville,Health,Health Navigation,53,46,7,16.8,4.0,Free
+2026-04-19,Halifax,Housing,Emergency Housing Support,88,61,27,21.1,3.2,Free
+2026-04-19,Halifax,Housing,Emergency Housing Support,94,62,32,24.2,3.2,Free
+2026-04-19,Bedford,Food,Weekly Pantry Support,60,54,6,15.4,4.0,Free
+2026-04-19,Halifax,Transportation,Community Ride Program,74,60,14,18.4,3.7,Low-cost
+2026-04-20,Halifax,Education,School Information,65,61,4,11.6,4.4,Free
+2026-04-20,Dartmouth,Education,Learning Support,50,47,3,14.8,4.3,Free
+2026-04-21,Halifax,Health,Health Navigation,83,72,11,17.2,4.1,Free
+2026-04-21,Sackville,Health,Health Navigation,56,50,6,17.8,4.1,Free
+2026-04-21,Halifax,Food,Community Food Pickup,81,68,13,18.0,3.9,Free
+2026-04-22,Dartmouth,Transportation,Public Transit Support,73,63,10,15.2,4.2,Low-cost
+2026-04-22,Halifax,Education,Learning Support,67,58,9,17.7,4.0,Free
+2026-04-22,Dartmouth,Education,School Information,59,53,6,15.7,3.9,Free
+2026-04-22,Halifax,Health,Community Health Support,88,82,6,12.0,4.2,Free
+2026-04-22,Dartmouth,Housing,Housing Navigation,59,46,13,16.4,3.9,Free
+2026-04-22,Bedford,Transportation,Community Ride Program,64,40,24,28.3,3.2,Low-cost
+2026-04-22,Dartmouth,Education,Learning Support,42,39,3,10.5,4.2,Free
+2026-04-23,Bedford,Education,Learning Support,43,38,5,17.2,4.1,Free
+2026-04-23,Bedford,Education,School Information,55,48,7,17.4,4.0,Free
+2026-04-24,Halifax,Transportation,Community Ride Program,78,66,12,17.7,4.1,Low-cost
+2026-04-24,Halifax,Education,School Information,56,50,6,12.4,4.1,Free
+2026-04-24,Halifax,Food,Community Food Pickup,73,65,8,12.1,4.1,Free
+2026-04-24,Sackville,Transportation,Public Transit Support,44,36,8,18.3,3.9,Low-cost
+2026-04-25,Sackville,Transportation,Public Transit Support,66,52,14,20.4,3.7,Low-cost
+2026-04-25,Sackville,Transportation,Community Ride Program,72,62,10,16.1,4.0,Low-cost
+2026-04-25,Sackville,Employment,Career Support,34,28,6,15.0,3.8,Free
+2026-04-26,Dartmouth,Education,Learning Support,50,44,6,17.2,3.9,Free
+2026-04-26,Halifax,Education,School Information,59,53,6,10.6,4.1,Free
+2026-04-26,Bedford,Housing,Emergency Housing Support,59,50,9,19.0,4.0,Free
+2026-04-26,Sackville,Transportation,Public Transit Support,46,36,10,19.2,3.7,Low-cost
+2026-04-26,Bedford,Education,School Information,49,42,7,18.4,3.8,Free
+2026-04-26,Sackville,Transportation,Public Transit Support,70,60,10,19.3,4.1,Low-cost
+2026-04-27,Bedford,Food,Community Food Pickup,66,57,9,14.7,4.0,Free
+2026-04-27,Halifax,Housing,Housing Navigation,75,48,27,26.4,3.0,Free
+2026-04-27,Halifax,Health,Health Navigation,80,68,12,18.6,3.7,Free
+2026-04-27,Halifax,Housing,Emergency Housing Support,72,47,25,26.3,3.0,Free
+2026-04-27,Dartmouth,Health,Community Health Support,63,55,8,18.5,4.0,Free
+2026-04-27,Dartmouth,Food,Weekly Pantry Support,69,60,9,13.8,3.9,Free
+2026-04-27,Bedford,Employment,Skills Training,47,42,5,13.0,4.2,Free
+2026-04-27,Sackville,Employment,Career Support,47,38,9,21.0,3.8,Free
+2026-04-28,Halifax,Transportation,Public Transit Support,65,51,14,17.3,3.7,Low-cost
+2026-04-28,Bedford,Housing,Housing Navigation,52,41,11,16.7,3.6,Free
+2026-04-28,Bedford,Transportation,Public Transit Support,84,59,25,20.0,3.5,Low-cost
+2026-04-28,Sackville,Health,Health Navigation,47,41,6,10.9,4.1,Free
+2026-04-28,Halifax,Health,Health Navigation,61,57,4,15.1,4.2,Free
+2026-04-29,Bedford,Health,Health Navigation,65,58,7,15.4,4.1,Free
+2026-04-29,Bedford,Employment,Career Support,49,41,8,14.4,3.7,Free
+2026-04-29,Halifax,Employment,Career Support,47,39,8,14.4,3.9,Free
+2026-04-30,Halifax,Employment,Skills Training,74,61,13,18.2,3.7,Free
+2026-04-30,Dartmouth,Education,Learning Support,50,45,5,16.0,4.1,Free
+2026-04-30,Bedford,Health,Community Health Support,69,64,5,10.8,4.3,Free
+2026-04-30,Bedford,Employment,Career Support,42,36,6,17.5,4.1,Free
+2026-05-01,Halifax,Food,Weekly Pantry Support,51,43,8,14.5,3.9,Free
+2026-05-01,Dartmouth,Education,Learning Support,61,58,3,9.4,4.2,Free
+2026-05-01,Bedford,Employment,Career Support,55,49,6,11.6,4.0,Free
+2026-05-01,Dartmouth,Food,Community Food Pickup,48,43,5,16.9,4.0,Free
+2026-05-01,Sackville,Health,Community Health Support,42,39,3,14.1,4.3,Free
+2026-05-01,Bedford,Education,School Information,41,36,5,17.3,3.9,Free
+2026-05-01,Dartmouth,Health,Community Health Support,80,70,10,11.5,4.0,Free
+2026-05-01,Dartmouth,Food,Community Food Pickup,54,49,5,10.4,4.2,Free
+2026-05-01,Bedford,Employment,Skills Training,58,48,10,18.2,3.8,Free
+2026-05-02,Sackville,Health,Health Navigation,60,57,3,13.7,4.4,Free
+2026-05-02,Dartmouth,Housing,Housing Navigation,79,66,13,15.4,3.8,Free
+2026-05-02,Bedford,Education,Learning Support,45,42,3,13.6,4.3,Free
+2026-05-02,Bedford,Transportation,Community Ride Program,73,44,29,25.0,2.9,Low-cost
+2026-05-02,Sackville,Transportation,Community Ride Program,53,42,11,17.7,3.8,Low-cost
+2026-05-03,Bedford,Transportation,Community Ride Program,63,38,25,30.6,3.0,Low-cost
+2026-05-03,Halifax,Transportation,Public Transit Support,94,79,15,16.1,4.0,Low-cost
+2026-05-03,Bedford,Education,Learning Support,39,34,5,15.9,4.0,Free
+2026-05-04,Halifax,Health,Community Health Support,83,73,10,13.8,4.1,Free
+2026-05-04,Dartmouth,Housing,Housing Navigation,85,72,13,12.6,4.0,Free
+2026-05-05,Halifax,Food,Weekly Pantry Support,74,66,8,15.2,4.0,Free
+2026-05-05,Halifax,Education,School Information,66,63,3,14.0,4.4,Free
+2026-05-05,Sackville,Employment,Career Support,42,35,7,15.4,4.0,Free
+2026-05-06,Halifax,Transportation,Community Ride Program,72,61,11,17.3,4.1,Low-cost
+2026-05-07,Sackville,Transportation,Community Ride Program,60,52,8,18.0,3.9,Low-cost
+2026-05-07,Halifax,Education,School Information,46,41,5,10.6,4.2,Free
+2026-05-07,Sackville,Transportation,Community Ride Program,62,53,9,13.0,3.9,Low-cost
+2026-05-07,Dartmouth,Transportation,Community Ride Program,67,55,12,14.8,4.0,Low-cost
+2026-05-08,Bedford,Education,Learning Support,45,40,5,10.4,4.0,Free
+2026-05-08,Bedford,Food,Community Food Pickup,45,38,7,16.9,4.1,Free
+2026-05-08,Bedford,Health,Community Health Support,56,51,5,12.7,4.0,Free
+2026-05-08,Sackville,Housing,Emergency Housing Support,52,43,9,15.0,3.7,Free
+2026-05-09,Sackville,Transportation,Public Transit Support,51,42,9,15.3,3.8,Low-cost
+2026-05-09,Bedford,Education,Learning Support,38,33,5,11.7,4.2,Free
+2026-05-09,Dartmouth,Employment,Skills Training,56,49,7,13.8,4.1,Free
+2026-05-09,Dartmouth,Housing,Housing Navigation,77,63,14,18.5,3.9,Free
+2026-05-09,Dartmouth,Housing,Emergency Housing Support,65,54,11,18.7,3.6,Free
+2026-05-09,Bedford,Employment,Career Support,45,39,6,16.7,3.8,Free
+2026-05-09,Bedford,Housing,Housing Navigation,50,40,10,17.0,3.9,Free
+2026-05-09,Dartmouth,Transportation,Community Ride Program,84,74,10,14.9,4.2,Low-cost
+2026-05-10,Halifax,Education,School Information,55,49,6,17.6,4.0,Free
+2026-05-10,Bedford,Transportation,Public Transit Support,62,41,21,20.8,3.2,Low-cost
+2026-05-10,Sackville,Health,Community Health Support,39,36,3,10.8,4.4,Free
+2026-05-11,Bedford,Education,Learning Support,51,45,6,14.3,4.0,Free
+2026-05-11,Dartmouth,Employment,Skills Training,64,52,12,17.7,3.9,Free
+2026-05-11,Sackville,Transportation,Community Ride Program,49,43,6,17.4,3.8,Low-cost
+2026-05-11,Sackville,Health,Health Navigation,42,37,5,16.7,4.1,Free
+2026-05-11,Dartmouth,Employment,Skills Training,51,42,9,20.3,3.6,Free
+2026-05-11,Halifax,Employment,Career Support,46,39,7,16.0,4.0,Free
+2026-05-11,Bedford,Employment,Career Support,42,37,5,17.7,4.1,Free
+2026-05-12,Dartmouth,Food,Community Food Pickup,66,56,10,13.7,3.8,Free
+2026-05-12,Halifax,Food,Weekly Pantry Support,55,50,5,15.4,4.2,Free
+2026-05-12,Halifax,Education,Learning Support,63,58,5,13.0,4.3,Free
+2026-05-12,Dartmouth,Employment,Skills Training,45,37,8,19.2,3.7,Free
+2026-05-14,Sackville,Employment,Career Support,35,27,8,19.8,3.6,Free
+2026-05-14,Halifax,Transportation,Community Ride Program,77,61,16,21.0,3.8,Low-cost
+2026-05-14,Halifax,Health,Health Navigation,60,54,6,12.2,4.1,Free
+2026-05-14,Bedford,Employment,Skills Training,58,49,9,14.9,3.8,Free
+2026-05-14,Bedford,Education,School Information,33,29,4,17.0,4.1,Free
+2026-05-14,Halifax,Education,School Information,56,53,3,8.6,4.3,Free
+2026-05-15,Sackville,Employment,Career Support,33,26,7,18.7,3.8,Free
+2026-05-15,Sackville,Health,Health Navigation,58,53,5,10.6,4.3,Free
+2026-05-15,Dartmouth,Transportation,Community Ride Program,71,61,10,14.9,4.2,Low-cost
+2026-05-15,Bedford,Employment,Skills Training,51,44,7,17.4,3.9,Free
+2026-05-16,Halifax,Health,Community Health Support,88,82,6,14.3,4.2,Free
+2026-05-16,Sackville,Transportation,Public Transit Support,68,57,11,17.6,4.0,Low-cost
+2026-05-16,Dartmouth,Transportation,Community Ride Program,64,50,14,22.7,3.5,Low-cost
+2026-05-16,Halifax,Housing,Housing Navigation,84,53,31,23.0,3.0,Free
+2026-05-17,Dartmouth,Food,Community Food Pickup,72,66,6,15.7,4.2,Free
+2026-05-17,Sackville,Transportation,Public Transit Support,60,52,8,14.5,4.1,Low-cost
+2026-05-18,Sackville,Employment,Skills Training,43,33,10,21.5,3.7,Free
+2026-05-18,Bedford,Education,School Information,46,43,3,9.3,4.3,Free
+2026-05-18,Sackville,Housing,Emergency Housing Support,67,54,13,18.6,3.9,Free
+2026-05-19,Halifax,Employment,Career Support,73,61,12,17.8,3.7,Free
+2026-05-19,Dartmouth,Health,Community Health Support,78,72,6,16.0,4.2,Free
+2026-05-19,Dartmouth,Education,Learning Support,44,39,5,15.9,4.0,Free
+2026-05-19,Sackville,Housing,Housing Navigation,67,55,12,14.2,3.9,Free
+2026-05-20,Halifax,Education,Learning Support,43,39,4,16.3,4.2,Free
+2026-05-20,Dartmouth,Education,School Information,47,43,4,10.7,4.2,Free
+2026-05-20,Halifax,Food,Weekly Pantry Support,54,49,5,11.4,4.0,Free
+2026-05-20,Halifax,Food,Weekly Pantry Support,66,57,9,18.9,4.0,Free
+2026-05-20,Sackville,Health,Community Health Support,56,50,6,12.4,4.0,Free
+2026-05-21,Bedford,Food,Community Food Pickup,47,40,7,17.9,3.9,Free
+2026-05-21,Halifax,Employment,Skills Training,63,54,9,11.5,3.9,Free
+2026-05-21,Bedford,Transportation,Public Transit Support,74,49,25,25.9,3.1,Low-cost
+2026-05-21,Dartmouth,Education,Learning Support,58,53,5,15.8,4.0,Free
+2026-05-21,Dartmouth,Housing,Emergency Housing Support,84,63,21,17.1,3.5,Free
+2026-05-22,Dartmouth,Health,Health Navigation,80,69,11,11.8,3.9,Free
+2026-05-22,Dartmouth,Transportation,Community Ride Program,65,51,14,21.5,3.6,Low-cost
+2026-05-23,Sackville,Education,Learning Support,43,40,3,12.9,4.3,Free
+2026-05-23,Dartmouth,Employment,Skills Training,48,39,9,19.3,3.8,Free
+2026-05-24,Dartmouth,Transportation,Public Transit Support,90,73,17,16.5,3.8,Low-cost
+2026-05-24,Dartmouth,Employment,Career Support,47,40,7,14.8,3.8,Free
+2026-05-24,Bedford,Transportation,Public Transit Support,57,39,18,22.9,3.2,Low-cost
+2026-05-24,Dartmouth,Food,Community Food Pickup,72,64,8,11.2,4.1,Free
+2026-05-25,Sackville,Transportation,Community Ride Program,61,51,10,19.5,3.7,Low-cost
+2026-05-25,Dartmouth,Transportation,Public Transit Support,64,51,13,15.8,3.6,Low-cost
+2026-05-25,Dartmouth,Transportation,Public Transit Support,76,66,10,16.2,4.0,Low-cost
+2026-05-25,Halifax,Housing,Housing Navigation,68,47,21,24.7,3.2,Free
+2026-05-25,Bedford,Food,Weekly Pantry Support,51,46,5,14.8,3.9,Free
+2026-05-25,Bedford,Housing,Housing Navigation,59,45,14,16.2,3.8,Free
+2026-05-25,Bedford,Health,Community Health Support,56,51,5,11.9,4.1,Free
+2026-05-26,Bedford,Health,Health Navigation,55,50,5,13.0,4.3,Free
+2026-05-26,Halifax,Housing,Emergency Housing Support,64,45,19,24.0,3.4,Free
+2026-05-26,Sackville,Health,Community Health Support,46,39,7,12.2,4.1,Free
+2026-05-26,Sackville,Transportation,Community Ride Program,51,44,7,15.1,3.8,Low-cost
+2026-05-26,Dartmouth,Education,School Information,37,32,5,17.9,4.0,Free
+2026-05-26,Dartmouth,Housing,Housing Navigation,69,53,16,19.6,3.5,Free
+2026-05-26,Halifax,Housing,Emergency Housing Support,76,48,28,29.0,3.1,Free
+2026-05-26,Bedford,Food,Weekly Pantry Support,59,54,5,13.4,4.0,Free
+2026-05-27,Halifax,Transportation,Public Transit Support,99,86,13,17.9,3.9,Low-cost
+2026-05-27,Dartmouth,Employment,Career Support,44,36,8,18.3,3.8,Free
+2026-05-27,Halifax,Transportation,Public Transit Support,69,56,13,14.2,3.8,Low-cost
+2026-05-27,Sackville,Health,Community Health Support,60,54,6,9.6,4.1,Free
+2026-05-27,Bedford,Employment,Skills Training,50,41,9,16.1,3.9,Free
+2026-05-27,Dartmouth,Education,School Information,49,43,6,11.1,4.2,Free
+2026-05-27,Bedford,Housing,Housing Navigation,78,62,16,20.9,3.8,Free
+2026-05-28,Bedford,Food,Community Food Pickup,67,56,11,19.8,3.9,Free
+2026-05-28,Sackville,Employment,Career Support,38,30,8,21.7,3.5,Free
+2026-05-28,Halifax,Education,School Information,57,54,3,10.1,4.5,Free
+2026-05-29,Sackville,Employment,Career Support,35,28,7,14.6,3.9,Free
+2026-05-29,Bedford,Employment,Career Support,49,40,9,19.7,3.7,Free
+2026-05-29,Dartmouth,Transportation,Community Ride Program,82,65,17,14.6,3.7,Low-cost
+2026-05-29,Sackville,Employment,Career Support,50,37,13,21.2,3.3,Free
+2026-05-29,Sackville,Education,School Information,41,36,5,12.1,4.1,Free
+2026-05-30,Sackville,Employment,Career Support,35,26,9,23.0,3.6,Free
+2026-05-30,Halifax,Employment,Career Support,59,49,10,19.5,3.7,Free
+2026-05-31,Bedford,Health,Health Navigation,57,52,5,16.4,4.1,Free
+2026-05-31,Dartmouth,Food,Weekly Pantry Support,59,50,9,12.3,4.1,Free
+2026-05-31,Sackville,Education,Learning Support,39,35,4,14.1,4.1,Free
+2026-06-01,Halifax,Transportation,Community Ride Program,75,63,12,15.6,4.0,Low-cost
+2026-06-01,Bedford,Education,Learning Support,48,45,3,14.2,4.1,Free
+2026-06-01,Bedford,Education,Learning Support,55,48,7,16.1,4.2,Free
+2026-06-01,Halifax,Employment,Career Support,57,52,5,9.9,4.4,Free
+2026-06-01,Dartmouth,Education,School Information,46,41,5,17.6,4.0,Free
+2026-06-01,Dartmouth,Housing,Housing Navigation,60,48,12,16.9,3.7,Free
+2026-06-01,Dartmouth,Education,Learning Support,41,38,3,15.6,4.2,Free
+2026-06-01,Sackville,Housing,Housing Navigation,47,36,11,21.4,3.4,Free
+2026-06-01,Bedford,Employment,Skills Training,62,52,10,20.1,3.9,Free
+2026-06-02,Sackville,Employment,Skills Training,50,41,9,15.5,3.9,Free
+2026-06-02,Bedford,Health,Health Navigation,70,63,7,11.1,4.1,Free
+2026-06-02,Dartmouth,Education,Learning Support,43,37,6,15.9,4.1,Free
+2026-06-02,Bedford,Transportation,Public Transit Support,68,46,22,23.0,3.2,Low-cost
+2026-06-03,Dartmouth,Health,Community Health Support,63,55,8,14.3,4.1,Free
+2026-06-03,Sackville,Education,Learning Support,47,44,3,14.7,4.4,Free
+2026-06-03,Bedford,Housing,Emergency Housing Support,51,40,11,22.0,3.7,Free
+2026-06-04,Halifax,Food,Community Food Pickup,67,58,9,14.4,4.1,Free
+2026-06-04,Bedford,Employment,Skills Training,54,49,5,14.4,4.1,Free
+2026-06-04,Halifax,Health,Health Navigation,54,51,3,9.2,4.3,Free
+2026-06-05,Dartmouth,Housing,Housing Navigation,82,63,19,23.3,3.7,Free
+2026-06-05,Dartmouth,Transportation,Community Ride Program,69,60,9,17.7,4.0,Low-cost
+2026-06-05,Dartmouth,Food,Weekly Pantry Support,54,45,9,13.6,4.0,Free
+2026-06-06,Halifax,Employment,Career Support,54,44,10,14.6,3.9,Free
+2026-06-06,Dartmouth,Health,Health Navigation,55,49,6,16.5,4.2,Free
+2026-06-06,Halifax,Food,Community Food Pickup,64,53,11,14.4,3.9,Free
+2026-06-06,Sackville,Food,Community Food Pickup,39,33,6,15.8,4.1,Free
+2026-06-06,Halifax,Transportation,Community Ride Program,69,57,12,17.4,3.9,Low-cost
+2026-06-07,Dartmouth,Employment,Skills Training,41,37,4,14.2,4.3,Free
+2026-06-07,Halifax,Housing,Housing Navigation,90,57,33,26.4,3.2,Free
+2026-06-08,Halifax,Health,Community Health Support,72,66,6,10.9,4.4,Free
+2026-06-08,Bedford,Health,Health Navigation,61,56,5,11.3,4.1,Free
+2026-06-08,Bedford,Food,Community Food Pickup,43,40,3,15.9,4.0,Free
+2026-06-08,Halifax,Food,Community Food Pickup,64,53,11,15.7,3.8,Free
+2026-06-08,Dartmouth,Employment,Career Support,60,53,7,17.0,3.8,Free
+2026-06-08,Halifax,Education,School Information,61,53,8,13.8,3.9,Free
+2026-06-09,Sackville,Housing,Housing Navigation,52,42,10,16.6,4.0,Free
+2026-06-09,Sackville,Health,Community Health Support,46,40,6,16.9,4.1,Free
+2026-06-10,Sackville,Health,Community Health Support,62,56,6,13.6,4.2,Free
+2026-06-10,Bedford,Transportation,Community Ride Program,56,34,22,24.3,2.9,Low-cost
+2026-06-10,Sackville,Housing,Emergency Housing Support,55,47,8,14.4,4.0,Free
+2026-06-10,Sackville,Food,Community Food Pickup,54,47,7,18.4,3.9,Free
+2026-06-10,Halifax,Education,School Information,43,38,5,11.7,4.2,Free
+2026-06-10,Halifax,Food,Weekly Pantry Support,77,69,8,10.3,4.1,Free
+2026-06-11,Halifax,Education,Learning Support,59,51,8,12.8,4.1,Free
+2026-06-11,Sackville,Health,Health Navigation,57,53,4,15.9,4.3,Free
+2026-06-11,Bedford,Education,School Information,43,38,5,14.5,4.1,Free
+2026-06-11,Sackville,Health,Community Health Support,38,33,5,11.6,4.1,Free
+2026-06-11,Sackville,Transportation,Public Transit Support,47,38,9,21.5,3.8,Low-cost
+2026-06-11,Halifax,Employment,Career Support,52,43,9,19.0,3.9,Free
+2026-06-12,Sackville,Education,Learning Support,37,33,4,17.4,3.9,Free
+2026-06-12,Sackville,Education,Learning Support,32,31,1,12.0,4.5,Free
+2026-06-12,Sackville,Education,Learning Support,40,38,2,9.2,4.2,Free
+2026-06-12,Sackville,Housing,Housing Navigation,49,41,8,17.8,4.0,Free
+2026-06-12,Sackville,Housing,Emergency Housing Support,58,46,12,14.8,3.9,Free
+2026-06-12,Bedford,Food,Community Food Pickup,68,61,7,10.2,4.0,Free
+2026-06-13,Dartmouth,Employment,Skills Training,64,58,6,14.3,4.3,Free
+2026-06-13,Bedford,Health,Community Health Support,53,50,3,14.0,4.3,Free
+2026-06-13,Bedford,Health,Community Health Support,58,54,4,9.2,4.2,Free
+2026-06-13,Sackville,Education,Learning Support,29,25,4,16.9,3.8,Free
+2026-06-13,Bedford,Food,Weekly Pantry Support,65,54,11,13.8,3.9,Free
+2026-06-14,Dartmouth,Education,School Information,42,37,5,14.6,4.2,Free
+2026-06-14,Bedford,Education,School Information,41,36,5,15.9,3.9,Free
+2026-06-14,Bedford,Transportation,Community Ride Program,70,45,25,28.9,3.2,Low-cost
+2026-06-15,Bedford,Transportation,Public Transit Support,83,57,26,24.6,3.2,Low-cost
+2026-06-15,Dartmouth,Employment,Skills Training,57,49,8,13.0,4.1,Free
+2026-06-15,Sackville,Education,School Information,36,35,1,8.4,4.5,Free
+2026-06-15,Bedford,Health,Health Navigation,59,51,8,14.0,4.2,Free
+2026-06-15,Bedford,Employment,Skills Training,48,40,8,17.2,3.9,Free
+2026-06-16,Halifax,Education,Learning Support,63,57,6,16.3,4.3,Free
+2026-06-16,Halifax,Food,Community Food Pickup,78,65,13,15.8,4.0,Free
+2026-06-16,Dartmouth,Education,Learning Support,40,37,3,12.7,4.1,Free
+2026-06-16,Sackville,Health,Health Navigation,47,44,3,11.0,4.1,Free
+2026-06-16,Bedford,Employment,Skills Training,62,54,8,10.9,4.0,Free
+2026-06-16,Bedford,Food,Community Food Pickup,68,61,7,15.1,4.3,Free
+2026-06-16,Sackville,Transportation,Community Ride Program,61,53,8,12.3,4.2,Low-cost
+2026-06-16,Sackville,Food,Community Food Pickup,54,49,5,11.0,4.0,Free
+2026-06-16,Bedford,Education,Learning Support,43,37,6,15.1,3.9,Free
+2026-06-17,Dartmouth,Employment,Skills Training,54,47,7,15.1,4.0,Free
+2026-06-17,Sackville,Food,Weekly Pantry Support,37,32,5,14.0,3.9,Free
+2026-06-17,Halifax,Food,Weekly Pantry Support,50,43,7,19.2,3.9,Free
+2026-06-18,Bedford,Education,School Information,41,37,4,14.4,4.3,Free
+2026-06-18,Bedford,Food,Community Food Pickup,48,43,5,15.8,4.2,Free
+2026-06-18,Dartmouth,Housing,Housing Navigation,61,49,12,15.8,3.8,Free
+2026-06-19,Bedford,Education,Learning Support,41,36,5,16.5,4.0,Free
+2026-06-19,Sackville,Education,School Information,30,28,2,9.2,4.2,Free
+2026-06-19,Sackville,Transportation,Community Ride Program,64,56,8,15.3,4.1,Low-cost
+2026-06-19,Sackville,Food,Community Food Pickup,57,48,9,13.9,4.0,Free
+2026-06-19,Halifax,Housing,Emergency Housing Support,80,55,25,22.8,3.4,Free
+2026-06-19,Dartmouth,Education,Learning Support,60,52,8,18.8,3.8,Free
+2026-06-19,Halifax,Employment,Career Support,67,56,11,20.2,3.7,Free
+2026-06-19,Sackville,Transportation,Community Ride Program,65,51,14,18.5,3.6,Low-cost
+2026-06-20,Halifax,Housing,Emergency Housing Support,77,53,24,19.2,3.5,Free
+2026-06-21,Dartmouth,Transportation,Public Transit Support,72,61,11,18.9,3.9,Low-cost
+2026-06-21,Bedford,Transportation,Public Transit Support,54,34,20,27.7,2.9,Low-cost
+2026-06-21,Dartmouth,Employment,Skills Training,49,40,9,13.4,3.9,Free
+2026-06-21,Sackville,Food,Weekly Pantry Support,45,41,4,14.2,4.2,Free
+2026-06-21,Sackville,Health,Community Health Support,45,42,3,10.0,4.3,Free
+2026-06-22,Halifax,Education,School Information,47,43,4,13.1,4.2,Free
+2026-06-22,Dartmouth,Employment,Skills Training,57,48,9,17.6,3.8,Free
+2026-06-22,Bedford,Employment,Skills Training,50,43,7,15.2,4.0,Free
+2026-06-23,Dartmouth,Employment,Career Support,49,43,6,18.0,3.8,Free
+2026-06-23,Sackville,Education,Learning Support,33,30,3,15.1,4.2,Free
+2026-06-23,Halifax,Education,School Information,54,50,4,13.3,4.2,Free
+2026-06-23,Bedford,Employment,Career Support,60,50,10,14.4,4.0,Free
+2026-06-23,Bedford,Transportation,Community Ride Program,71,43,28,23.0,3.2,Low-cost
+2026-06-23,Halifax,Employment,Skills Training,51,45,6,10.9,4.2,Free
+2026-06-24,Bedford,Education,Learning Support,40,35,5,16.7,3.8,Free
+2026-06-24,Sackville,Employment,Career Support,44,33,11,22.0,3.6,Free
+2026-06-24,Halifax,Transportation,Community Ride Program,79,66,13,20.1,3.9,Low-cost
+2026-06-24,Dartmouth,Education,School Information,46,42,4,16.8,4.1,Free
+2026-06-24,Sackville,Health,Community Health Support,62,58,4,9.4,4.2,Free
+2026-06-25,Dartmouth,Employment,Career Support,68,58,10,17.6,3.8,Free
+2026-06-25,Bedford,Housing,Housing Navigation,62,50,12,21.0,3.7,Free
+2026-06-25,Bedford,Food,Weekly Pantry Support,53,45,8,15.7,3.9,Free
+2026-06-25,Bedford,Food,Weekly Pantry Support,67,59,8,11.4,4.1,Free
+2026-06-25,Sackville,Transportation,Public Transit Support,68,60,8,13.7,3.9,Low-cost
+2026-06-26,Dartmouth,Health,Community Health Support,50,43,7,18.2,4.1,Free
+2026-06-26,Sackville,Transportation,Community Ride Program,62,53,9,17.4,3.9,Low-cost
+2026-06-26,Bedford,Health,Community Health Support,71,66,5,11.4,4.1,Free
+2026-06-26,Halifax,Food,Community Food Pickup,56,52,4,15.0,4.0,Free
+2026-06-27,Bedford,Housing,Emergency Housing Support,53,41,12,22.2,3.7,Free
+2026-06-27,Halifax,Education,Learning Support,59,54,5,11.1,4.1,Free
+2026-06-28,Dartmouth,Health,Community Health Support,78,68,10,14.8,4.0,Free
+2026-06-28,Halifax,Health,Community Health Support,66,61,5,10.2,4.5,Free
+2026-06-28,Sackville,Housing,Emergency Housing Support,58,44,14,16.7,3.8,Free
+2026-06-29,Sackville,Transportation,Public Transit Support,51,40,11,22.4,3.4,Low-cost
+2026-06-29,Dartmouth,Food,Weekly Pantry Support,66,56,10,19.0,3.7,Free
+2026-06-30,Halifax,Food,Weekly Pantry Support,52,46,6,11.4,4.1,Free
+2026-06-30,Dartmouth,Health,Community Health Support,54,49,5,15.0,4.0,Free
+2026-06-30,Dartmouth,Employment,Career Support,58,50,8,16.3,4.1,Free
+2026-06-30,Halifax,Food,Weekly Pantry Support,52,44,8,18.1,3.8,Free
+2026-07-01,Bedford,Employment,Skills Training,42,36,6,12.9,4.1,Free
+2026-07-01,Halifax,Housing,Emergency Housing Support,94,68,26,18.8,3.4,Free
+2026-07-01,Sackville,Food,Weekly Pantry Support,37,32,5,16.9,3.9,Free
+2026-07-03,Bedford,Health,Health Navigation,53,49,4,11.8,4.3,Free
+2026-07-03,Bedford,Education,Learning Support,45,43,2,13.7,4.4,Free
+2026-07-03,Halifax,Food,Weekly Pantry Support,62,57,5,15.1,4.3,Free
+2026-07-03,Dartmouth,Food,Community Food Pickup,51,44,7,12.0,4.2,Free
+2026-07-03,Halifax,Education,School Information,65,57,8,16.8,3.9,Free
+2026-07-03,Bedford,Education,Learning Support,34,32,2,9.5,4.2,Free
+2026-07-04,Sackville,Health,Health Navigation,56,52,4,13.0,4.4,Free
+2026-07-04,Bedford,Education,School Information,39,34,5,12.0,4.3,Free
+2026-07-05,Sackville,Transportation,Community Ride Program,63,54,9,17.1,3.9,Low-cost
+2026-07-05,Bedford,Education,School Information,45,39,6,12.6,3.9,Free
+2026-07-05,Sackville,Transportation,Community Ride Program,61,52,9,12.0,3.9,Low-cost
+2026-07-05,Dartmouth,Employment,Career Support,57,49,8,18.3,4.0,Free
+2026-07-05,Bedford,Food,Weekly Pantry Support,61,54,7,15.0,4.0,Free
+2026-07-05,Sackville,Transportation,Public Transit Support,61,48,13,18.6,3.8,Low-cost
+2026-07-05,Sackville,Health,Community Health Support,43,41,2,11.2,4.2,Free
+2026-07-06,Halifax,Transportation,Community Ride Program,84,72,12,12.7,3.8,Low-cost
+2026-07-07,Bedford,Housing,Housing Navigation,76,61,15,21.5,3.6,Free
+2026-07-07,Sackville,Education,School Information,36,34,2,12.2,4.4,Free
+2026-07-08,Halifax,Employment,Career Support,60,50,10,19.4,3.8,Free
+2026-07-08,Halifax,Education,Learning Support,49,47,2,13.9,4.2,Free
+2026-07-08,Bedford,Education,Learning Support,37,34,3,12.6,4.2,Free
+2026-07-08,Dartmouth,Education,School Information,48,45,3,14.8,4.2,Free
+2026-07-08,Dartmouth,Health,Community Health Support,75,64,11,16.5,3.9,Free
+2026-07-08,Bedford,Employment,Skills Training,41,36,5,16.5,3.8,Free
+2026-07-08,Sackville,Transportation,Community Ride Program,58,51,7,11.5,4.3,Low-cost
+2026-07-09,Sackville,Housing,Emergency Housing Support,52,39,13,19.0,3.5,Free
+2026-07-09,Bedford,Employment,Skills Training,54,48,6,17.6,4.0,Free
+2026-07-09,Halifax,Food,Weekly Pantry Support,51,46,5,9.5,4.2,Free
+2026-07-09,Sackville,Health,Community Health Support,60,55,5,12.2,4.4,Free
+2026-07-09,Bedford,Education,Learning Support,51,45,6,15.9,4.0,Free
+2026-07-09,Dartmouth,Employment,Career Support,55,45,10,15.1,3.7,Free
+2026-07-10,Dartmouth,Health,Community Health Support,53,46,7,11.1,4.2,Free
+2026-07-10,Bedford,Health,Community Health Support,58,54,4,12.7,4.2,Free
+2026-07-11,Dartmouth,Employment,Career Support,67,57,10,13.7,4.1,Free
+2026-07-11,Sackville,Housing,Housing Navigation,46,35,11,19.7,3.6,Free
+2026-07-11,Sackville,Education,School Information,38,35,3,15.3,4.0,Free
+2026-07-11,Sackville,Employment,Career Support,34,28,6,15.4,4.0,Free
+2026-07-12,Dartmouth,Housing,Housing Navigation,60,45,15,23.6,3.5,Free
+2026-07-12,Halifax,Food,Community Food Pickup,77,70,7,9.9,4.2,Free
+2026-07-12,Halifax,Health,Health Navigation,77,71,6,11.0,4.2,Free
+2026-07-12,Sackville,Education,Learning Support,32,28,4,18.5,3.9,Free
+2026-07-12,Sackville,Employment,Skills Training,34,26,8,22.5,3.6,Free
+2026-07-12,Dartmouth,Health,Health Navigation,71,63,8,15.3,4.2,Free
+2026-07-13,Bedford,Education,School Information,34,30,4,12.4,4.0,Free
+2026-07-13,Bedford,Education,Learning Support,35,34,1,10.1,4.4,Free
+2026-07-13,Dartmouth,Housing,Housing Navigation,64,52,12,14.5,3.9,Free
+2026-07-14,Dartmouth,Food,Community Food Pickup,72,63,9,13.4,4.2,Free
+2026-07-14,Halifax,Health,Health Navigation,65,59,6,9.6,4.1,Free
+2026-07-14,Bedford,Health,Health Navigation,50,44,6,12.5,3.9,Free
+2026-07-14,Sackville,Food,Weekly Pantry Support,41,38,3,11.7,4.4,Free
+2026-07-14,Bedford,Housing,Emergency Housing Support,70,59,11,17.0,3.8,Free
+2026-07-14,Sackville,Employment,Career Support,42,35,7,14.9,3.9,Free
+2026-07-15,Bedford,Health,Community Health Support,50,47,3,13.6,4.2,Free
+2026-07-15,Halifax,Education,Learning Support,65,62,3,10.2,4.4,Free
+2026-07-15,Halifax,Food,Weekly Pantry Support,62,56,6,13.1,4.2,Free
+2026-07-15,Dartmouth,Food,Weekly Pantry Support,49,45,4,13.5,4.4,Free
+2026-07-16,Sackville,Employment,Career Support,40,31,9,19.4,3.8,Free
+2026-07-16,Dartmouth,Transportation,Public Transit Support,71,60,11,14.9,3.8,Low-cost
+2026-07-16,Halifax,Health,Health Navigation,71,65,6,12.3,4.2,Free
+2026-07-16,Halifax,Housing,Housing Navigation,72,48,24,26.3,3.1,Free
+2026-07-16,Halifax,Employment,Skills Training,72,60,12,20.2,3.6,Free
+2026-07-16,Sackville,Education,School Information,38,34,4,15.0,3.9,Free
+2026-07-17,Halifax,Transportation,Community Ride Program,72,59,13,20.9,3.6,Low-cost
+2026-07-17,Halifax,Education,School Information,61,55,6,15.3,3.9,Free
+2026-07-17,Halifax,Education,School Information,64,57,7,10.2,4.1,Free
+2026-07-17,Bedford,Employment,Skills Training,41,37,4,16.5,4.1,Free
+2026-07-17,Sackville,Education,School Information,34,30,4,11.4,4.1,Free
+2026-07-18,Dartmouth,Food,Community Food Pickup,71,63,8,13.0,4.2,Free
+2026-07-18,Sackville,Education,School Information,38,35,3,8.9,4.2,Free
+2026-07-18,Dartmouth,Transportation,Community Ride Program,66,54,12,17.5,4.0,Low-cost
+2026-07-20,Bedford,Employment,Skills Training,49,43,6,16.0,3.9,Free
+2026-07-20,Sackville,Employment,Career Support,33,25,8,19.7,3.5,Free
+2026-07-21,Dartmouth,Food,Community Food Pickup,48,41,7,17.9,4.1,Free
+2026-07-21,Bedford,Housing,Housing Navigation,80,66,14,17.5,3.7,Free
+2026-07-21,Bedford,Education,School Information,49,42,7,18.5,3.8,Free
+2026-07-21,Bedford,Employment,Career Support,56,49,7,15.8,4.2,Free
+2026-07-22,Dartmouth,Transportation,Community Ride Program,80,65,15,16.0,4.0,Low-cost
+2026-07-22,Halifax,Transportation,Public Transit Support,79,66,13,13.2,4.1,Low-cost
+2026-07-22,Bedford,Employment,Career Support,42,36,6,14.4,3.8,Free
+2026-07-23,Bedford,Employment,Career Support,46,37,9,15.7,4.0,Free
+2026-07-23,Sackville,Food,Weekly Pantry Support,50,46,4,15.4,4.3,Free
+2026-07-23,Halifax,Housing,Housing Navigation,62,39,23,28.7,3.0,Free
+2026-07-24,Sackville,Housing,Emergency Housing Support,61,51,10,15.2,4.1,Free
+2026-07-24,Sackville,Food,Community Food Pickup,46,42,4,10.0,4.1,Free
+2026-07-24,Dartmouth,Housing,Emergency Housing Support,67,51,16,18.6,3.5,Free
+2026-07-24,Dartmouth,Employment,Career Support,53,48,5,14.7,4.3,Free
+2026-07-25,Bedford,Education,School Information,47,41,6,12.2,4.2,Free
+2026-07-25,Halifax,Housing,Housing Navigation,75,51,24,25.4,3.3,Free
+2026-07-25,Halifax,Housing,Housing Navigation,61,42,19,26.8,3.1,Free
+2026-07-25,Sackville,Employment,Skills Training,45,36,9,19.2,3.6,Free
+2026-07-25,Halifax,Transportation,Community Ride Program,93,81,12,11.9,4.1,Low-cost
+2026-07-25,Sackville,Health,Community Health Support,53,46,7,11.0,4.1,Free
+2026-07-25,Dartmouth,Food,Weekly Pantry Support,47,44,3,13.0,4.2,Free
+2026-07-26,Bedford,Housing,Emergency Housing Support,58,48,10,18.0,3.7,Free
+2026-07-26,Halifax,Education,School Information,54,48,6,17.5,4.0,Free
+2026-07-27,Sackville,Food,Weekly Pantry Support,48,42,6,16.5,3.8,Free
+2026-07-27,Halifax,Health,Health Navigation,81,71,10,10.8,4.0,Free
+2026-07-27,Sackville,Employment,Career Support,35,29,6,17.7,3.9,Free
+2026-07-27,Dartmouth,Employment,Career Support,49,40,9,13.7,3.9,Free
+2026-07-27,Sackville,Food,Weekly Pantry Support,58,51,7,11.6,4.1,Free
+2026-07-28,Halifax,Health,Health Navigation,88,76,12,13.5,4.1,Free
+2026-07-29,Dartmouth,Education,School Information,53,46,7,13.4,3.9,Free
+2026-07-29,Bedford,Housing,Housing Navigation,49,39,10,19.3,3.8,Free
+2026-07-29,Sackville,Transportation,Community Ride Program,49,39,10,19.3,3.8,Low-cost
+2026-07-29,Dartmouth,Education,Learning Support,40,36,4,15.5,4.1,Free
+2026-07-30,Dartmouth,Education,School Information,45,42,3,14.0,4.4,Free
+2026-07-30,Halifax,Housing,Emergency Housing Support,61,38,23,29.1,3.0,Free
+2026-07-30,Halifax,Housing,Emergency Housing Support,89,63,26,24.6,3.2,Free
+2026-07-30,Sackville,Health,Community Health Support,57,54,3,14.3,4.1,Free
+2026-07-30,Halifax,Food,Weekly Pantry Support,59,53,6,16.1,4.1,Free
+2026-07-31,Bedford,Health,Community Health Support,46,41,5,16.3,3.9,Free
+2026-07-31,Dartmouth,Food,Weekly Pantry Support,51,43,8,13.2,3.8,Free
+2026-07-31,Halifax,Education,Learning Support,41,37,4,14.4,4.1,Free
+2026-08-01,Dartmouth,Employment,Career Support,48,43,5,15.6,4.1,Free
+2026-08-01,Dartmouth,Employment,Skills Training,67,61,6,12.0,4.2,Free
+2026-08-01,Sackville,Employment,Skills Training,37,30,7,14.4,3.8,Free
+2026-08-01,Sackville,Education,Learning Support,42,40,2,13.2,4.4,Free
+2026-08-01,Dartmouth,Housing,Emergency Housing Support,58,47,11,14.2,3.7,Free
+2026-08-01,Sackville,Education,Learning Support,42,38,4,10.6,4.2,Free
+2026-08-01,Bedford,Transportation,Community Ride Program,64,43,21,21.9,3.1,Low-cost
+2026-08-02,Halifax,Education,Learning Support,45,43,2,12.2,4.1,Free
+2026-08-02,Dartmouth,Transportation,Public Transit Support,76,62,14,16.9,3.7,Low-cost
+2026-08-02,Sackville,Health,Community Health Support,45,40,5,17.7,3.9,Free
+2026-08-02,Bedford,Health,Health Navigation,74,63,11,15.5,4.1,Free
+2026-08-02,Halifax,Health,Health Navigation,87,76,11,14.7,3.9,Free
+2026-08-02,Dartmouth,Education,School Information,52,45,7,18.2,4.0,Free
+2026-08-02,Sackville,Health,Health Navigation,44,38,6,18.9,4.1,Free
+2026-08-02,Halifax,Employment,Skills Training,73,66,7,11.8,4.2,Free
+2026-08-03,Dartmouth,Health,Health Navigation,76,65,11,17.3,3.8,Free
+2026-08-03,Dartmouth,Health,Health Navigation,76,67,9,16.6,4.0,Free
+2026-08-03,Halifax,Education,Learning Support,51,47,4,13.0,4.1,Free
+2026-08-03,Bedford,Transportation,Public Transit Support,69,42,27,30.2,3.1,Low-cost
+2026-08-03,Sackville,Health,Community Health Support,43,39,4,11.8,4.3,Free
+2026-08-03,Dartmouth,Education,School Information,41,39,2,7.4,4.6,Free
+2026-08-03,Dartmouth,Education,School Information,54,47,7,18.7,4.1,Free
+2026-08-04,Sackville,Health,Community Health Support,47,45,2,9.3,4.3,Free
+2026-08-04,Bedford,Employment,Skills Training,44,39,5,13.0,4.3,Free
+2026-08-05,Halifax,Health,Health Navigation,59,53,6,15.1,4.1,Free
+2026-08-05,Dartmouth,Education,Learning Support,59,56,3,11.0,4.2,Free
+2026-08-05,Halifax,Education,School Information,66,63,3,8.6,4.3,Free
+2026-08-06,Halifax,Housing,Housing Navigation,91,58,33,27.9,3.2,Free
+2026-08-06,Dartmouth,Housing,Emergency Housing Support,61,50,11,16.1,4.0,Free
+2026-08-07,Halifax,Employment,Skills Training,63,53,10,16.3,4.1,Free
+2026-08-07,Dartmouth,Education,Learning Support,55,48,7,16.8,3.8,Free
+2026-08-07,Halifax,Employment,Skills Training,58,49,9,14.9,3.9,Free
+2026-08-07,Dartmouth,Education,Learning Support,58,51,7,11.9,4.1,Free
+2026-08-07,Bedford,Housing,Emergency Housing Support,64,51,13,19.3,3.6,Free
+2026-08-08,Halifax,Food,Community Food Pickup,74,66,8,10.3,4.1,Free
+2026-08-08,Halifax,Housing,Emergency Housing Support,74,53,21,20.8,3.2,Free
+2026-08-08,Bedford,Transportation,Community Ride Program,73,45,28,29.9,2.8,Low-cost
+2026-08-08,Bedford,Housing,Emergency Housing Support,54,41,13,17.5,3.5,Free
+2026-08-08,Bedford,Health,Community Health Support,48,42,6,13.5,3.9,Free
+2026-08-08,Halifax,Food,Community Food Pickup,56,50,6,16.3,4.1,Free
+2026-08-08,Bedford,Transportation,Community Ride Program,86,58,28,23.1,3.2,Low-cost
+2026-08-09,Bedford,Food,Community Food Pickup,68,63,5,9.5,4.5,Free
+2026-08-09,Halifax,Transportation,Community Ride Program,67,54,13,18.2,3.7,Low-cost
+2026-08-09,Dartmouth,Education,Learning Support,44,42,2,11.9,4.4,Free
+2026-08-10,Bedford,Housing,Emergency Housing Support,75,61,14,14.7,3.9,Free
+2026-08-10,Halifax,Housing,Emergency Housing Support,66,44,22,26.4,3.3,Free
+2026-08-10,Dartmouth,Transportation,Public Transit Support,84,69,15,15.6,3.8,Low-cost
+2026-08-10,Dartmouth,Health,Community Health Support,55,50,5,12.1,4.3,Free
+2026-08-10,Sackville,Transportation,Public Transit Support,69,57,12,13.1,4.0,Low-cost
+2026-08-11,Halifax,Transportation,Community Ride Program,103,87,16,15.2,3.7,Low-cost
+2026-08-11,Dartmouth,Transportation,Public Transit Support,71,61,10,14.8,4.2,Low-cost
+2026-08-11,Dartmouth,Transportation,Community Ride Program,63,49,14,20.8,3.7,Low-cost
+2026-08-11,Bedford,Education,School Information,55,51,4,13.9,4.0,Free
+2026-08-11,Halifax,Employment,Career Support,51,46,5,10.6,4.2,Free
+2026-08-11,Sackville,Transportation,Public Transit Support,64,51,13,16.5,3.9,Low-cost
+2026-08-11,Dartmouth,Education,School Information,50,43,7,12.2,3.9,Free
+2026-08-12,Sackville,Food,Community Food Pickup,49,43,6,11.2,4.0,Free
+2026-08-12,Sackville,Education,Learning Support,44,39,5,11.0,4.0,Free
+2026-08-12,Dartmouth,Health,Community Health Support,78,69,9,18.1,4.1,Free
+2026-08-12,Bedford,Education,Learning Support,36,34,2,11.5,4.3,Free
+2026-08-13,Halifax,Employment,Skills Training,50,42,8,15.1,3.7,Free
+2026-08-13,Halifax,Education,School Information,62,59,3,13.2,4.5,Free
+2026-08-13,Dartmouth,Health,Community Health Support,53,49,4,14.0,4.4,Free
+2026-08-13,Dartmouth,Health,Health Navigation,57,52,5,10.0,4.4,Free
+2026-08-13,Bedford,Transportation,Public Transit Support,82,53,29,23.5,3.2,Low-cost
+2026-08-14,Halifax,Health,Health Navigation,59,51,8,16.2,3.9,Free
+2026-08-14,Dartmouth,Employment,Skills Training,50,45,5,11.5,4.3,Free
+2026-08-14,Sackville,Education,Learning Support,41,39,2,13.0,4.3,Free
+2026-08-14,Sackville,Employment,Career Support,47,35,12,21.1,3.6,Free
+2026-08-15,Bedford,Housing,Emergency Housing Support,73,57,16,20.7,3.7,Free
+2026-08-15,Dartmouth,Education,School Information,60,57,3,11.7,4.5,Free
+2026-08-15,Halifax,Education,School Information,59,56,3,13.8,4.3,Free
+2026-08-15,Halifax,Health,Health Navigation,67,63,4,10.8,4.5,Free
+2026-08-15,Bedford,Education,Learning Support,50,45,5,16.5,3.9,Free
+2026-08-15,Sackville,Employment,Skills Training,33,26,7,16.5,3.8,Free
+2026-08-16,Halifax,Employment,Skills Training,46,37,9,20.0,3.8,Free
+2026-08-17,Sackville,Health,Community Health Support,61,56,5,12.5,4.1,Free
+2026-08-17,Bedford,Health,Health Navigation,49,44,5,14.1,4.3,Free
+2026-08-17,Dartmouth,Employment,Skills Training,51,43,8,16.5,3.8,Free
+2026-08-17,Dartmouth,Employment,Career Support,61,55,6,11.8,4.3,Free
+2026-08-17,Halifax,Transportation,Community Ride Program,73,62,11,19.1,3.8,Low-cost
+2026-08-17,Halifax,Education,Learning Support,40,35,5,16.2,3.9,Free
+2026-08-18,Sackville,Food,Weekly Pantry Support,55,51,4,11.3,4.3,Free
+2026-08-18,Dartmouth,Food,Weekly Pantry Support,74,61,13,13.2,3.8,Free
+2026-08-18,Dartmouth,Housing,Housing Navigation,88,72,16,20.2,3.8,Free
+2026-08-19,Halifax,Health,Health Navigation,88,78,10,16.2,4.1,Free
+2026-08-19,Dartmouth,Education,School Information,48,44,4,9.8,4.4,Free
+2026-08-19,Halifax,Transportation,Public Transit Support,89,70,19,20.3,3.7,Low-cost
+2026-08-20,Halifax,Food,Community Food Pickup,60,54,6,15.4,4.3,Free
+2026-08-20,Halifax,Health,Health Navigation,70,66,4,14.6,4.1,Free
+2026-08-20,Bedford,Health,Community Health Support,46,43,3,15.6,4.2,Free
+2026-08-20,Halifax,Food,Weekly Pantry Support,65,57,8,11.5,4.2,Free
+2026-08-20,Dartmouth,Education,Learning Support,43,40,3,10.7,4.2,Free
+2026-08-21,Bedford,Employment,Skills Training,46,39,7,17.6,4.0,Free
+2026-08-21,Halifax,Employment,Career Support,63,51,12,18.9,3.8,Free
+2026-08-21,Halifax,Employment,Skills Training,53,47,6,15.9,4.2,Free
+2026-08-21,Sackville,Transportation,Community Ride Program,45,36,9,17.8,3.8,Low-cost
+2026-08-21,Dartmouth,Education,School Information,49,45,4,9.5,4.1,Free
+2026-08-21,Dartmouth,Health,Health Navigation,60,52,8,17.0,4.0,Free
+2026-08-21,Sackville,Health,Health Navigation,51,46,5,13.0,4.1,Free
+2026-08-21,Sackville,Housing,Housing Navigation,52,43,9,19.8,3.8,Free
+2026-08-21,Halifax,Transportation,Community Ride Program,97,80,17,14.7,3.8,Low-cost
+2026-08-22,Sackville,Employment,Career Support,43,33,10,22.8,3.5,Free
+2026-08-22,Sackville,Housing,Housing Navigation,58,47,11,18.0,3.8,Free
+2026-08-22,Sackville,Education,Learning Support,44,39,5,13.2,4.1,Free
+2026-08-22,Halifax,Education,School Information,53,50,3,15.1,4.2,Free
+2026-08-22,Dartmouth,Housing,Emergency Housing Support,58,45,13,21.1,3.7,Free
+2026-08-23,Sackville,Employment,Skills Training,52,41,11,20.0,3.8,Free
+2026-08-23,Sackville,Food,Community Food Pickup,51,46,5,17.2,3.9,Free
+2026-08-23,Sackville,Health,Health Navigation,40,35,5,18.2,3.9,Free
+2026-08-23,Halifax,Food,Weekly Pantry Support,69,63,6,14.6,4.1,Free
+2026-08-23,Halifax,Education,Learning Support,58,53,5,12.4,4.2,Free
+2026-08-24,Bedford,Transportation,Public Transit Support,81,54,27,23.6,3.4,Low-cost
+2026-08-24,Sackville,Housing,Housing Navigation,53,43,10,14.2,3.8,Free
+2026-08-25,Halifax,Housing,Emergency Housing Support,84,55,29,24.3,3.2,Free
+2026-08-25,Bedford,Food,Weekly Pantry Support,62,56,6,13.4,4.1,Free
+2026-08-25,Halifax,Health,Community Health Support,74,70,4,13.3,4.1,Free
+2026-08-25,Dartmouth,Health,Community Health Support,57,51,6,11.2,4.2,Free
+2026-08-25,Sackville,Food,Weekly Pantry Support,38,33,5,18.3,4.0,Free
+2026-08-25,Sackville,Health,Community Health Support,58,52,6,15.6,4.2,Free
+2026-08-25,Halifax,Housing,Emergency Housing Support,92,58,34,22.9,3.0,Free
+2026-08-25,Dartmouth,Employment,Career Support,60,53,7,11.3,4.0,Free
+2026-08-26,Dartmouth,Health,Health Navigation,74,68,6,10.9,4.1,Free
+2026-08-26,Dartmouth,Education,School Information,46,44,2,14.9,4.4,Free
+2026-08-26,Halifax,Employment,Skills Training,63,52,11,14.2,4.0,Free
+2026-08-26,Bedford,Food,Community Food Pickup,66,58,8,18.2,4.0,Free
+2026-08-26,Halifax,Housing,Emergency Housing Support,77,55,22,21.2,3.6,Free
+2026-08-26,Halifax,Housing,Emergency Housing Support,87,61,26,22.0,3.5,Free
+2026-08-26,Bedford,Food,Weekly Pantry Support,55,49,6,10.9,4.0,Free
+2026-08-26,Bedford,Transportation,Community Ride Program,57,37,20,21.7,3.4,Low-cost
+2026-08-26,Bedford,Employment,Skills Training,44,36,8,14.4,3.9,Free
+2026-08-26,Sackville,Food,Weekly Pantry Support,36,33,3,15.7,4.3,Free
+2026-08-26,Dartmouth,Education,School Information,61,55,6,10.9,4.0,Free
+2026-08-26,Bedford,Food,Community Food Pickup,65,59,6,9.6,4.0,Free
+2026-08-26,Halifax,Employment,Career Support,65,59,6,13.9,4.3,Free
+2026-08-27,Bedford,Education,Learning Support,45,41,4,13.9,4.1,Free
+2026-08-27,Halifax,Transportation,Community Ride Program,71,60,11,15.9,3.8,Low-cost
+2026-08-27,Dartmouth,Transportation,Community Ride Program,85,68,17,15.2,3.7,Low-cost
+2026-08-27,Dartmouth,Health,Community Health Support,63,58,5,10.7,4.4,Free
+2026-08-28,Sackville,Education,School Information,46,44,2,11.2,4.5,Free
+2026-08-29,Sackville,Food,Community Food Pickup,48,45,3,10.8,4.3,Free
+2026-08-29,Halifax,Employment,Skills Training,53,44,9,18.3,3.9,Free
+2026-08-29,Halifax,Education,School Information,43,38,5,10.8,4.2,Free
+2026-08-29,Bedford,Food,Community Food Pickup,50,43,7,13.1,4.2,Free
+2026-08-29,Sackville,Employment,Career Support,48,37,11,16.9,3.6,Free
+2026-08-29,Sackville,Housing,Housing Navigation,63,51,12,14.9,3.8,Free
+2026-08-29,Halifax,Employment,Career Support,51,45,6,14.0,4.0,Free
+2026-08-30,Sackville,Education,School Information,46,42,4,10.9,4.3,Free
+2026-08-30,Bedford,Food,Community Food Pickup,44,38,6,17.6,4.0,Free
+2026-08-30,Sackville,Employment,Career Support,45,37,8,20.6,3.9,Free
+2026-08-31,Sackville,Food,Weekly Pantry Support,58,53,5,12.0,4.2,Free
+2026-08-31,Bedford,Housing,Housing Navigation,56,45,11,18.3,3.7,Free
+2026-08-31,Bedford,Employment,Skills Training,44,38,6,14.6,3.9,Free
+2026-08-31,Bedford,Food,Weekly Pantry Support,56,48,8,19.4,3.9,Free
+2026-08-31,Sackville,Transportation,Community Ride Program,65,56,9,14.3,4.1,Low-cost
+2026-09-01,Sackville,Health,Health Navigation,45,40,5,16.8,3.8,Free
+2026-09-01,Sackville,Education,Learning Support,39,34,5,11.2,4.0,Free
+2026-09-01,Bedford,Education,Learning Support,55,51,4,13.6,4.4,Free
+2026-09-01,Halifax,Food,Weekly Pantry Support,72,67,5,15.2,4.4,Free
+2026-09-01,Halifax,Housing,Emergency Housing Support,91,57,34,27.8,2.9,Free
+2026-09-02,Dartmouth,Transportation,Public Transit Support,77,67,10,12.1,4.3,Low-cost
+2026-09-02,Bedford,Employment,Skills Training,57,47,10,16.3,3.9,Free
+2026-09-02,Halifax,Health,Health Navigation,71,66,5,8.2,4.2,Free
+2026-09-02,Halifax,Education,Learning Support,48,44,4,15.4,4.0,Free
+2026-09-02,Halifax,Education,Learning Support,48,45,3,14.2,4.3,Free
+2026-09-03,Halifax,Employment,Skills Training,69,61,8,11.0,4.1,Free
+2026-09-03,Bedford,Housing,Housing Navigation,78,64,14,18.7,3.7,Free
+2026-09-03,Sackville,Education,School Information,38,35,3,14.0,4.2,Free
+2026-09-03,Bedford,Food,Weekly Pantry Support,66,60,6,14.3,4.1,Free
+2026-09-03,Sackville,Education,Learning Support,39,35,4,16.9,4.1,Free
+2026-09-03,Bedford,Health,Health Navigation,51,48,3,10.1,4.5,Free
+2026-09-03,Bedford,Food,Weekly Pantry Support,45,38,7,17.5,3.9,Free
+2026-09-03,Halifax,Food,Weekly Pantry Support,66,60,6,15.7,3.9,Free
+2026-09-03,Dartmouth,Food,Community Food Pickup,54,50,4,16.1,4.1,Free
+2026-09-04,Dartmouth,Housing,Emergency Housing Support,88,69,19,21.7,3.7,Free
+2026-09-04,Bedford,Transportation,Public Transit Support,75,50,25,23.5,3.3,Low-cost
+2026-09-04,Bedford,Transportation,Public Transit Support,62,39,23,27.1,3.2,Low-cost
+2026-09-04,Bedford,Employment,Career Support,54,45,9,14.2,4.0,Free
+2026-09-04,Dartmouth,Food,Community Food Pickup,47,44,3,13.0,4.4,Free
+2026-09-05,Dartmouth,Transportation,Public Transit Support,84,66,18,18.5,3.8,Low-cost
+2026-09-05,Halifax,Food,Weekly Pantry Support,59,50,9,17.8,3.9,Free
+2026-09-05,Sackville,Housing,Emergency Housing Support,46,37,9,17.7,4.0,Free
+2026-09-05,Bedford,Health,Community Health Support,63,60,3,12.7,4.4,Free
+2026-09-05,Bedford,Housing,Housing Navigation,57,46,11,19.8,3.8,Free
+2026-09-05,Sackville,Health,Health Navigation,61,53,8,13.6,4.0,Free
+2026-09-06,Bedford,Housing,Housing Navigation,71,54,17,21.4,3.7,Free
+2026-09-06,Bedford,Housing,Emergency Housing Support,64,54,10,19.3,3.7,Free
+2026-09-06,Dartmouth,Food,Community Food Pickup,69,63,6,15.0,4.0,Free
+2026-09-07,Sackville,Housing,Housing Navigation,43,32,11,23.9,3.5,Free
+2026-09-07,Sackville,Food,Community Food Pickup,40,36,4,12.2,4.3,Free
+2026-09-07,Sackville,Health,Health Navigation,43,38,5,10.5,4.1,Free
+2026-09-07,Sackville,Employment,Skills Training,38,31,7,18.2,3.9,Free
+2026-09-07,Dartmouth,Employment,Career Support,63,55,8,15.3,4.2,Free
+2026-09-07,Halifax,Health,Community Health Support,54,49,5,12.5,4.0,Free
+2026-09-08,Bedford,Employment,Career Support,52,47,5,11.6,4.3,Free
+2026-09-08,Dartmouth,Employment,Skills Training,65,54,11,17.8,3.8,Free
+2026-09-08,Dartmouth,Food,Community Food Pickup,54,47,7,18.3,4.1,Free
+2026-09-08,Bedford,Education,Learning Support,36,33,3,13.8,4.1,Free
+2026-09-08,Bedford,Health,Health Navigation,53,46,7,17.7,4.0,Free
+2026-09-09,Halifax,Transportation,Community Ride Program,71,59,12,19.8,3.8,Low-cost
+2026-09-09,Halifax,Education,Learning Support,61,56,5,9.3,4.4,Free
+2026-09-09,Halifax,Transportation,Community Ride Program,66,56,10,12.2,3.9,Low-cost
+2026-09-09,Sackville,Employment,Career Support,47,36,11,22.7,3.5,Free
+2026-09-09,Halifax,Transportation,Public Transit Support,101,87,14,15.0,4.0,Low-cost
+2026-09-09,Bedford,Education,Learning Support,43,37,6,13.6,4.0,Free
+2026-09-09,Sackville,Education,School Information,31,27,4,11.6,4.3,Free
+2026-09-09,Dartmouth,Food,Weekly Pantry Support,59,53,6,12.4,4.0,Free
+2026-09-11,Bedford,Education,Learning Support,49,46,3,15.5,4.1,Free
+2026-09-11,Bedford,Education,Learning Support,34,30,4,15.4,4.0,Free
+2026-09-11,Sackville,Employment,Career Support,45,36,9,17.6,3.7,Free
+2026-09-11,Sackville,Education,School Information,34,33,1,6.8,4.6,Free
+2026-09-12,Dartmouth,Transportation,Public Transit Support,89,77,12,17.3,3.8,Low-cost
+2026-09-12,Bedford,Education,Learning Support,37,34,3,9.0,4.3,Free
+2026-09-12,Halifax,Food,Weekly Pantry Support,57,53,4,8.4,4.4,Free
+2026-09-12,Halifax,Transportation,Public Transit Support,87,73,14,12.7,3.8,Low-cost
+2026-09-12,Sackville,Food,Community Food Pickup,51,44,7,17.6,3.8,Free
+2026-09-12,Halifax,Health,Community Health Support,85,74,11,11.8,4.2,Free
+2026-09-13,Sackville,Transportation,Public Transit Support,63,50,13,21.4,3.5,Low-cost
+2026-09-13,Bedford,Education,Learning Support,43,39,4,9.7,4.1,Free
+2026-09-13,Halifax,Housing,Emergency Housing Support,63,45,18,22.9,3.4,Free
+2026-09-13,Halifax,Employment,Skills Training,61,49,12,20.9,3.6,Free
+2026-09-13,Bedford,Employment,Career Support,58,48,10,16.8,3.8,Free
+2026-09-13,Sackville,Transportation,Public Transit Support,62,48,14,19.3,3.5,Low-cost
+2026-09-14,Bedford,Food,Weekly Pantry Support,45,38,7,12.8,4.1,Free
+2026-09-14,Sackville,Employment,Career Support,36,30,6,15.5,4.1,Free
+2026-09-14,Halifax,Employment,Career Support,48,42,6,14.9,4.0,Free
+2026-09-14,Sackville,Health,Community Health Support,57,51,6,13.0,4.2,Free
+2026-09-15,Sackville,Employment,Career Support,44,36,8,15.0,3.9,Free
+2026-09-15,Dartmouth,Health,Health Navigation,73,65,8,11.5,4.3,Free
+2026-09-15,Bedford,Education,School Information,45,42,3,13.7,4.3,Free
+2026-09-15,Bedford,Housing,Emergency Housing Support,78,59,19,17.0,3.5,Free
+2026-09-15,Sackville,Employment,Career Support,39,32,7,19.3,3.8,Free
+2026-09-15,Halifax,Food,Weekly Pantry Support,52,47,5,10.5,4.2,Free
+2026-09-15,Halifax,Health,Community Health Support,79,71,8,12.0,4.0,Free
+2026-09-16,Dartmouth,Transportation,Community Ride Program,88,72,16,17.5,3.7,Low-cost
+2026-09-16,Halifax,Employment,Skills Training,49,42,7,15.7,3.8,Free
+2026-09-16,Bedford,Housing,Housing Navigation,53,43,10,16.7,3.7,Free
+2026-09-16,Dartmouth,Education,School Information,53,46,7,16.6,4.2,Free
+2026-09-16,Dartmouth,Transportation,Public Transit Support,87,71,16,16.9,3.7,Low-cost
+2026-09-16,Halifax,Transportation,Community Ride Program,89,72,17,16.8,3.7,Low-cost
+2026-09-16,Halifax,Education,School Information,63,60,3,14.1,4.1,Free
+2026-09-17,Halifax,Health,Health Navigation,57,52,5,15.9,4.3,Free
+2026-09-17,Bedford,Transportation,Public Transit Support,81,53,28,21.0,3.2,Low-cost
+2026-09-17,Halifax,Education,Learning Support,52,49,3,15.5,4.0,Free
+2026-09-17,Halifax,Food,Weekly Pantry Support,61,51,10,17.6,3.7,Free
+2026-09-17,Halifax,Education,Learning Support,48,43,5,12.9,4.0,Free
+2026-09-18,Dartmouth,Housing,Housing Navigation,83,67,16,19.0,3.6,Free
+2026-09-18,Bedford,Transportation,Public Transit Support,66,42,24,25.8,3.2,Low-cost
+2026-09-18,Dartmouth,Housing,Housing Navigation,67,51,16,16.1,3.7,Free
+2026-09-18,Dartmouth,Education,Learning Support,54,50,4,11.3,4.1,Free
+2026-09-18,Halifax,Education,Learning Support,50,45,5,10.9,4.1,Free
+2026-09-18,Halifax,Health,Community Health Support,74,68,6,12.3,4.1,Free
+2026-09-18,Sackville,Health,Community Health Support,58,55,3,12.9,4.2,Free
+2026-09-19,Dartmouth,Housing,Housing Navigation,73,59,14,19.7,3.6,Free
+2026-09-19,Halifax,Health,Health Navigation,69,59,10,16.8,4.0,Free
+2026-09-19,Sackville,Housing,Housing Navigation,43,35,8,20.6,3.8,Free
+2026-09-19,Dartmouth,Employment,Career Support,48,40,8,17.1,3.7,Free
+2026-09-19,Sackville,Education,School Information,37,35,2,13.8,4.1,Free
+2026-09-20,Bedford,Transportation,Community Ride Program,56,35,21,26.4,2.9,Low-cost
+2026-09-21,Dartmouth,Transportation,Community Ride Program,88,73,15,13.0,4.1,Low-cost
+2026-09-21,Dartmouth,Health,Community Health Support,82,75,7,9.6,4.4,Free
+2026-09-21,Sackville,Health,Health Navigation,56,52,4,12.0,4.2,Free
+2026-09-22,Dartmouth,Employment,Career Support,52,46,6,13.0,4.2,Free
+2026-09-22,Sackville,Housing,Housing Navigation,67,51,16,18.3,3.8,Free
+2026-09-22,Dartmouth,Health,Health Navigation,80,69,11,16.9,3.9,Free
+2026-09-22,Sackville,Employment,Skills Training,48,39,9,15.2,3.7,Free
+2026-09-23,Bedford,Transportation,Public Transit Support,84,53,31,25.4,3.1,Low-cost
+2026-09-24,Bedford,Health,Health Navigation,54,49,5,9.4,4.4,Free
+2026-09-24,Sackville,Education,School Information,41,36,5,13.6,4.2,Free
+2026-09-24,Dartmouth,Housing,Housing Navigation,57,45,12,16.9,3.7,Free
+2026-09-24,Bedford,Education,Learning Support,44,39,5,13.6,4.2,Free
+2026-09-24,Dartmouth,Housing,Emergency Housing Support,79,63,16,20.6,3.8,Free
+2026-09-24,Dartmouth,Food,Weekly Pantry Support,73,67,6,15.2,4.1,Free
+2026-09-25,Dartmouth,Housing,Emergency Housing Support,80,63,17,20.2,3.5,Free
+2026-09-25,Bedford,Transportation,Community Ride Program,69,48,21,23.4,3.5,Low-cost
+2026-09-25,Dartmouth,Transportation,Public Transit Support,89,77,12,13.8,4.0,Low-cost
+2026-09-25,Halifax,Employment,Skills Training,48,40,8,12.9,4.1,Free
+2026-09-25,Sackville,Health,Health Navigation,43,39,4,11.1,4.3,Free
+2026-09-26,Bedford,Transportation,Public Transit Support,57,35,22,26.6,3.1,Low-cost
+2026-09-26,Sackville,Transportation,Community Ride Program,45,38,7,13.2,4.0,Low-cost
+2026-09-26,Sackville,Housing,Housing Navigation,42,35,7,20.1,3.9,Free
+2026-09-26,Dartmouth,Food,Weekly Pantry Support,60,55,5,15.6,4.1,Free
+2026-09-27,Bedford,Employment,Career Support,43,39,4,13.5,4.0,Free
+2026-09-27,Dartmouth,Education,Learning Support,53,46,7,14.1,4.1,Free
+2026-09-27,Sackville,Transportation,Community Ride Program,56,47,9,18.5,4.0,Low-cost
+2026-09-27,Sackville,Education,Learning Support,40,37,3,8.8,4.2,Free
+2026-09-27,Bedford,Housing,Housing Navigation,63,52,11,13.5,3.9,Free
+2026-09-28,Sackville,Housing,Housing Navigation,41,33,8,18.2,3.7,Free
+2026-09-28,Halifax,Transportation,Public Transit Support,72,58,14,16.0,4.0,Low-cost
+2026-09-28,Halifax,Food,Weekly Pantry Support,81,70,11,14.2,4.0,Free
+2026-09-29,Bedford,Housing,Emergency Housing Support,59,45,14,19.1,3.8,Free
+2026-09-29,Sackville,Employment,Skills Training,46,34,12,24.1,3.5,Free
+2026-09-29,Bedford,Housing,Housing Navigation,56,43,13,16.2,3.6,Free
+2026-09-30,Dartmouth,Housing,Housing Navigation,75,61,14,20.5,3.5,Free
+2026-09-30,Sackville,Housing,Emergency Housing Support,56,47,9,15.5,3.9,Free
+2026-09-30,Bedford,Food,Community Food Pickup,67,56,11,14.9,4.1,Free
+2026-09-30,Sackville,Health,Community Health Support,51,45,6,11.0,4.2,Free
+2026-09-30,Halifax,Health,Community Health Support,64,58,6,11.8,4.3,Free

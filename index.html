@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+<meta
+    name="description"
+    content="Community Navigator helps residents find relevant services while giving organizations insight into service demand and community gaps."
+>
+    <title>Community Navigator | Service Intelligence Prototype</title>
+
+    <link
+        rel="stylesheet"
+        href="css/style.css"
+    >
+</head>
+
+
+<body>
+
+  <header class="main-header">
+
+    <div class="header-content">
+
+        <div>
+
+            <span class="prototype-label">
+                Community Service Intelligence Prototype
+            </span>
+
+            <h1>
+                Community Navigator
+            </h1>
+
+            <p class="header-description">
+                Helping residents find the right services
+                while helping organizations understand
+                where community needs are not being met.
+            </p>
+
+        </div>
+
+
+        <div class="header-value">
+
+            <div>
+                <strong>
+                    Residents
+                </strong>
+
+                <span>
+                    Find relevant services faster
+                </span>
+            </div>
+
+
+            <div>
+                <strong>
+                    Organizations
+                </strong>
+
+                <span>
+                    Turn demand into actionable insight
+                </span>
+            </div>
+
+        </div>
+
+    </div>
+
+</header>
+
+
+    <nav class="view-navigation">
+
+        <button
+            id="residentButton"
+            class="nav-button active"
+        >
+            Resident View
+        </button>
+
+        <button
+            id="organizationButton"
+            class="nav-button"
+        >
+            Organization View
+        </button>
+
+    </nav>
+
+
+    <main>
+
+        <!-- ========================================= -->
+        <!-- RESIDENT VIEW -->
+        <!-- ========================================= -->
+
+        <section
+    id="residentView"
+    class="view-section"
+>
+
+    <h2>Find the Right Service</h2>
+
+    <p>
+        Tell us what you are looking for
+        and we will help identify relevant options.
+    </p>
+<div class="flow-strip">
+
+    <div class="flow-item">
+        <span>1</span>
+        <strong>Choose a need</strong>
+        <small>Select the type of support or service.</small>
+    </div>
+
+    <div class="flow-arrow">
+        →
+    </div>
+
+    <div class="flow-item">
+        <span>2</span>
+        <strong>Set preferences</strong>
+        <small>Tell us your area and priorities.</small>
+    </div>
+
+    <div class="flow-arrow">
+        →
+    </div>
+
+    <div class="flow-item">
+        <span>3</span>
+        <strong>Compare options</strong>
+        <small>Review ranked and explainable matches.</small>
+    </div>
+
+</div>
+
+    <!-- STEP 1: MAIN GROUP -->
+
+    <div class="resident-step">
+
+        <span class="step-label">
+            Step 1
+        </span>
+
+        <h3>
+            What are you looking for?
+        </h3>
+
+
+        <div class="category-grid">
+
+            <button
+                class="category-card"
+                data-group="Community Support"
+            >
+                <strong>
+                    Community Support
+                </strong>
+
+                <span>
+                    Food, housing, transportation
+                    and employment support.
+                </span>
+            </button>
+
+
+            <button
+                class="category-card"
+                data-group="Places"
+            >
+                <strong>
+                    Places
+                </strong>
+
+                <span>
+                    Hospitals, libraries,
+                    schools and shopping.
+                </span>
+            </button>
+
+
+            <button
+                class="category-card"
+                data-group="Public Services"
+            >
+                <strong>
+                    Public Services
+                </strong>
+
+                <span>
+                    Government, health,
+                    utility and education services.
+                </span>
+            </button>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- STEP 2: SUBCATEGORY -->
+
+    <div
+        id="subcategorySection"
+        class="resident-step hidden"
+    >
+
+        <span class="step-label">
+            Step 2
+        </span>
+
+        <h3 id="subcategoryTitle">
+            Choose a category
+        </h3>
+
+
+        <div
+            id="subcategoryGrid"
+            class="subcategory-grid"
+        >
+        </div>
+
+    </div>
+
+
+
+    <!-- CURRENT SELECTION -->
+
+    <div
+        id="residentSelection"
+        class="resident-selection hidden"
+    >
+
+        <span>
+            Selected:
+        </span>
+
+        <strong id="residentSelectionText">
+        </strong>
+
+    </div>
+<!-- STEP 3: USER PREFERENCES -->
+
+<div
+    id="preferenceSection"
+    class="resident-step hidden"
+>
+
+    <span class="step-label">
+        Step 3
+    </span>
+
+    <h3>
+        Tell us what matters to you
+    </h3>
+
+    <p class="preference-description">
+        These preferences will help us rank
+        the most relevant options.
+    </p>
+
+
+    <div class="preference-grid">
+
+        <div class="preference-field">
+
+            <label for="residentArea">
+                Area
+            </label>
+
+            <select id="residentArea">
+
+                <option value="">
+                    Select an area
+                </option>
+
+            </select>
+
+        </div>
+
+
+        <div class="preference-field">
+
+            <label for="residentPriority">
+                Priority
+            </label>
+
+            <select id="residentPriority">
+
+                <option value="Normal">
+                    No urgent need
+                </option>
+
+                <option value="Urgent">
+                    Urgent
+                </option>
+
+            </select>
+
+        </div>
+
+
+        <div class="preference-field">
+
+            <label for="residentCost">
+                Cost Preference
+            </label>
+
+            <select id="residentCost">
+
+                <option value="Any">
+                    No preference
+                </option>
+
+                <option value="Free">
+                    Free only
+                </option>
+
+                <option value="Low-cost">
+                    Free or low-cost
+                </option>
+
+            </select>
+
+        </div>
+
+
+        <div class="preference-field">
+
+            <label for="residentAccessibility">
+                Accessibility
+            </label>
+
+            <select id="residentAccessibility">
+
+                <option value="No preference">
+                    No preference
+                </option>
+
+                <option value="Required">
+                    Accessibility required
+                </option>
+
+            </select>
+
+        </div>
+
+
+        <div class="preference-field">
+
+            <label for="residentOnline">
+                Service Format
+            </label>
+
+            <select id="residentOnline">
+
+                <option value="Any">
+                    No preference
+                </option>
+
+                <option value="Online">
+                    Online preferred
+                </option>
+
+                <option value="In-person">
+                    In-person preferred
+                </option>
+
+            </select>
+
+        </div>
+
+    </div>
+
+
+    <button
+        id="findServicesButton"
+        class="find-services-button"
+        type="button"
+    >
+        Find Recommended Services
+    </button>
+
+
+    <p
+        id="preferenceMessage"
+        class="preference-message"
+    >
+    </p>
+
+</div>
+<!-- STEP 4: RECOMMENDED SERVICES -->
+
+<div
+    id="residentResultsSection"
+    class="resident-step hidden"
+>
+
+    <span class="step-label">
+        Step 4
+    </span>
+
+    <h3>
+        Recommended Services
+    </h3>
+
+    <p
+        id="residentResultsSummary"
+        class="results-summary"
+    >
+    </p>
+
+
+    <div
+        id="serviceResults"
+        class="service-results-grid"
+    >
+    </div>
+
+</div>
+</section>
+
+
+
+        <!-- ========================================= -->
+        <!-- ORGANIZATION VIEW -->
+        <!-- ========================================= -->
+
+<section
+    id="organizationView"
+    class="view-section hidden"
+>
+
+    <div class="section-title-row">
+
+    <h2>
+        Community Analytics
+    </h2>
+
+    <span class="demo-data-badge">
+        Synthetic Demo Data
+    </span>
+
+</div>
+
+    <p>
+        Understand service demand,
+        coverage and community gaps.
+    </p>
+
+<div class="flow-strip">
+
+    <div class="flow-item">
+        <span>1</span>
+        <strong>Explore demand</strong>
+        <small>Filter by area and service category.</small>
+    </div>
+
+    <div class="flow-arrow">
+        →
+    </div>
+
+    <div class="flow-item">
+        <span>2</span>
+        <strong>Identify gaps</strong>
+        <small>Compare demand, coverage and experience.</small>
+    </div>
+
+    <div class="flow-arrow">
+        →
+    </div>
+
+    <div class="flow-item">
+        <span>3</span>
+        <strong>Take action</strong>
+        <small>Review priority and recommended response.</small>
+    </div>
+
+</div>
+    <!-- FILTERS -->
+
+    <div class="dashboard-filters">
+
+        <div class="filter-group">
+
+            <label for="areaFilter">
+                Area
+            </label>
+
+            <select id="areaFilter">
+
+                <option value="All">
+                    All Areas
+                </option>
+
+            </select>
+
+        </div>
+
+
+        <div class="filter-group">
+
+            <label for="categoryFilter">
+                Category
+            </label>
+
+            <select id="categoryFilter">
+
+                <option value="All">
+                    All Categories
+                </option>
+
+            </select>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- KPI CARDS -->
+
+    <div class="kpi-grid">
+
+        <div class="kpi-card">
+
+            <span class="kpi-title">
+                Total Requests
+            </span>
+
+            <strong id="totalRequests">
+                -
+            </strong>
+
+        </div>
+
+
+        <div class="kpi-card">
+
+            <span class="kpi-title">
+                Service Rate
+            </span>
+
+            <strong id="serviceRate">
+                -
+            </strong>
+
+        </div>
+
+
+        <div class="kpi-card">
+
+            <span class="kpi-title">
+                Unmet Rate
+            </span>
+
+            <strong id="unmetRate">
+                -
+            </strong>
+
+        </div>
+
+
+        <div class="kpi-card">
+
+            <span class="kpi-title">
+                Satisfaction
+            </span>
+
+            <strong id="satisfaction">
+                -
+            </strong>
+
+        </div>
+
+    </div>
+
+
+<!-- DEMAND VISUALIZATION -->
+
+<div class="chart-section">
+
+    <div class="section-header">
+
+        <h3 id="demandChartTitle">
+            Demand by Category
+        </h3>
+
+        <p>
+            Compare total service requests
+            across the current selection.
+        </p>
+
+    </div>
+
+
+    <div
+        id="demandChart"
+        class="bar-chart"
+    >
+    </div>
+
+</div>
+<!-- SERVICE COVERAGE -->
+
+<div class="coverage-section">
+
+    <div class="section-header">
+
+        <h3>
+            Service Coverage
+        </h3>
+
+        <p>
+            Compare served and unmet demand
+            for the current selection.
+        </p>
+
+    </div>
+
+
+    <div class="coverage-bar">
+
+        <div
+            id="servedBar"
+            class="served-bar"
+        >
+        </div>
+
+        <div
+            id="unservedBar"
+            class="unserved-bar"
+        >
+        </div>
+
+    </div>
+
+
+    <div class="coverage-labels">
+
+        <div>
+
+            <span class="coverage-dot served-dot">
+            </span>
+
+            <strong id="servedPercentage">
+                -
+            </strong>
+
+            Served
+
+        </div>
+
+
+        <div>
+
+            <span class="coverage-dot unserved-dot">
+            </span>
+
+            <strong id="unservedPercentage">
+                -
+            </strong>
+
+            Unserved
+
+        </div>
+
+    </div>
+
+
+    <div class="coverage-counts">
+
+        <span id="servedCount">
+            -
+        </span>
+
+        requests served
+
+        <span class="coverage-separator">
+            |
+        </span>
+
+        <span id="unservedCount">
+            -
+        </span>
+
+        requests unmet
+
+    </div>
+
+</div>
+<!-- PROTOTYPE SESSION ACTIVITY -->
+
+<div class="session-activity-section">
+
+    <div class="section-header">
+
+        <h3>
+            Prototype Session Activity
+        </h3>
+
+        <p>
+            Search demand generated during
+            the current prototype session.
+        </p>
+
+    </div>
+
+
+    <div
+        id="sessionActivityEmpty"
+        class="session-empty-message"
+    >
+        No resident searches have been recorded yet.
+    </div>
+
+
+    <div
+        id="sessionActivityContent"
+        class="hidden"
+    >
+
+        <div class="session-summary">
+
+            <div>
+
+                <span>
+                    Searches this session
+                </span>
+
+                <strong id="sessionSearchCount">
+                    0
+                </strong>
+
+            </div>
+
+
+            <div>
+
+                <span>
+                    Top demand
+                </span>
+
+                <strong id="sessionTopDemand">
+                    -
+                </strong>
+
+            </div>
+
+        </div>
+
+
+        <div
+            id="sessionDemandList"
+            class="session-demand-list"
+        >
+        </div>
+
+    </div>
+
+</div>
+    <!-- SERVICE GAP TABLE -->
+
+    <div class="analytics-section">
+
+        <div class="section-header">
+
+            <h3>
+                Highest Service Gaps
+            </h3>
+
+            <p>
+                Areas and categories with the
+                highest unmet demand.
+            </p>
+
+        </div>
+
+
+        <div class="table-container">
+
+            <table>
+
+                <thead>
+
+                    <tr>
+
+                        <th>Area</th>
+                        <th>Category</th>
+                        <th>Requests</th>
+                        <th>Unserved</th>
+                        <th>Unmet Rate</th>
+                        <th>Wait Time</th>
+                        <th>Satisfaction</th>
+
+                    </tr>
+
+                </thead>
+
+
+                <tbody id="gapTableBody">
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- INSIGHT -->
+
+    <div class="insight-panel">
+
+        <span class="insight-label">
+            Key Insight
+        </span>
+
+        <p id="keyInsight">
+            Analyzing service gaps...
+        </p>
+
+    </div>
+<!-- RECOMMENDATION -->
+
+<div class="recommendation-panel">
+
+    <div class="recommendation-header">
+
+        <div>
+
+            <span class="recommendation-label">
+                Recommended Action
+            </span>
+
+            <h3 id="recommendationTitle">
+                Analyzing priorities...
+            </h3>
+
+        </div>
+
+
+        <span
+            id="priorityBadge"
+            class="priority-badge"
+        >
+            -
+        </span>
+
+    </div>
+
+
+    <p id="recommendationText">
+        Recommendation will appear here
+        based on the current selection.
+    </p>
+
+
+    <div class="recommendation-evidence">
+
+        <span id="recommendationEvidence">
+            -
+        </span>
+
+    </div>
+
+</div>
+</section>
+
+    </main>
+
+
+ <footer class="main-footer">
+
+    <strong>
+        Community Navigator
+    </strong>
+
+    <span>
+        Competition prototype · Synthetic demonstration data
+    </span>
+
+    <span>
+        Core experience works offline
+    </span>
+
+</footer>
+
+
+    <!-- DATA MUST LOAD FIRST -->
+
+<script src="js/data.js"></script>
+
+<script src="js/services.js"></script>
+
+<script src="js/app.js"></script>
+
+<script src="js/dashboard.js"></script>
+
+
+</body>
+
+</html>
